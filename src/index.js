@@ -1,11 +1,11 @@
 import Phaser from 'phaser'
+import Breakout from './scenes/Breakout'
 
-const preload = () => {}
-const create = () => {}
-const update = () => {}
+const config = {
+    width: 500,
+    height: 500,
+    parent: 'content',
+    scene: [Breakout]
+}
 
-const game = new Phaser.Game(480, 320, Phaser.CANVAS, null, {
-    preload: preload,
-    create: create,
-    update: update
-})
+const game = new Phaser.Game(config)

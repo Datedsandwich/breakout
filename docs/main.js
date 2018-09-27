@@ -1,2 +1,100 @@
-!function(e){function t(t){for(var r,f,i=t[0],l=t[1],a=t[2],p=0,s=[];p<i.length;p++)f=i[p],o[f]&&s.push(o[f][0]),o[f]=0;for(r in l)Object.prototype.hasOwnProperty.call(l,r)&&(e[r]=l[r]);for(c&&c(t);s.length;)s.shift()();return u.push.apply(u,a||[]),n()}function n(){for(var e,t=0;t<u.length;t++){for(var n=u[t],r=!0,i=1;i<n.length;i++){var l=n[i];0!==o[l]&&(r=!1)}r&&(u.splice(t--,1),e=f(f.s=n[0]))}return e}var r={},o={0:0},u=[];function f(t){if(r[t])return r[t].exports;var n=r[t]={i:t,l:!1,exports:{}};return e[t].call(n.exports,n,n.exports,f),n.l=!0,n.exports}f.m=e,f.c=r,f.d=function(e,t,n){f.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:n})},f.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},f.t=function(e,t){if(1&t&&(e=f(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var n=Object.create(null);if(f.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var r in e)f.d(n,r,function(t){return e[t]}.bind(null,r));return n},f.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return f.d(t,"a",t),t},f.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},f.p="";var i=window.webpackJsonp=window.webpackJsonp||[],l=i.push.bind(i);i.push=t,i=i.slice();for(var a=0;a<i.length;a++)t(i[a]);var c=l;u.push([465,1]),n()}({465:function(e,t,n){e.exports=n(466)},466:function(e,t,n){"use strict";var r=function(e){return e&&e.__esModule?e:{default:e}}(n(467));new r.default.Game(480,320,r.default.CANVAS,null,{preload:function(){},create:function(){},update:function(){}})}});
+!(function(e) {
+    function n(n) {
+        for (var r, l, a = n[0], c = n[1], i = n[2], p = 0, s = []; p < a.length; p++)
+            (l = a[p]), o[l] && s.push(o[l][0]), (o[l] = 0)
+        for (r in c) Object.prototype.hasOwnProperty.call(c, r) && (e[r] = c[r])
+        for (f && f(n); s.length; ) s.shift()()
+        return u.push.apply(u, i || []), t()
+    }
+    function t() {
+        for (var e, n = 0; n < u.length; n++) {
+            for (var t = u[n], r = !0, a = 1; a < t.length; a++) {
+                var c = t[a]
+                0 !== o[c] && (r = !1)
+            }
+            r && (u.splice(n--, 1), (e = l((l.s = t[0]))))
+        }
+        return e
+    }
+    var r = {},
+        o = { 0: 0 },
+        u = []
+    function l(n) {
+        if (r[n]) return r[n].exports
+        var t = (r[n] = { i: n, l: !1, exports: {} })
+        return e[n].call(t.exports, t, t.exports, l), (t.l = !0), t.exports
+    }
+    ;(l.m = e),
+        (l.c = r),
+        (l.d = function(e, n, t) {
+            l.o(e, n) || Object.defineProperty(e, n, { enumerable: !0, get: t })
+        }),
+        (l.r = function(e) {
+            'undefined' != typeof Symbol &&
+                Symbol.toStringTag &&
+                Object.defineProperty(e, Symbol.toStringTag, { value: 'Module' }),
+                Object.defineProperty(e, '__esModule', { value: !0 })
+        }),
+        (l.t = function(e, n) {
+            if ((1 & n && (e = l(e)), 8 & n)) return e
+            if (4 & n && 'object' == typeof e && e && e.__esModule) return e
+            var t = Object.create(null)
+            if (
+                (l.r(t),
+                Object.defineProperty(t, 'default', { enumerable: !0, value: e }),
+                2 & n && 'string' != typeof e)
+            )
+                for (var r in e)
+                    l.d(
+                        t,
+                        r,
+                        function(n) {
+                            return e[n]
+                        }.bind(null, r)
+                    )
+            return t
+        }),
+        (l.n = function(e) {
+            var n =
+                e && e.__esModule
+                    ? function() {
+                          return e.default
+                      }
+                    : function() {
+                          return e
+                      }
+            return l.d(n, 'a', n), n
+        }),
+        (l.o = function(e, n) {
+            return Object.prototype.hasOwnProperty.call(e, n)
+        }),
+        (l.p = '')
+    var a = (window.webpackJsonp = window.webpackJsonp || []),
+        c = a.push.bind(a)
+    ;(a.push = n), (a = a.slice())
+    for (var i = 0; i < a.length; i++) n(a[i])
+    var f = c
+    u.push([465, 1]), t()
+})({
+    465: function(e, n, t) {
+        e.exports = t(466)
+    },
+    466: function(e, n, t) {
+        'use strict'
+        var r = (function(e) {
+            return e && e.__esModule ? e : { default: e }
+        })(t(467))
+        var o = new r.default.Game(480, 320, r.default.AUTO, null, {
+            preload: function() {
+                ;(o.scale.scaleMode = r.default.ScaleManager.SHOW_ALL),
+                    (o.scale.pageAlignHorizontally = !0),
+                    (o.scale.pageAlignVertically = !0),
+                    (o.stage.backgroundColor = '#eee'),
+                    console.log(o)
+            },
+            create: function() {},
+            update: function() {}
+        })
+    }
+})
 //# sourceMappingURL=main.js.map

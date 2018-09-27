@@ -17,6 +17,7 @@
     ]
   },
   "dependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1",
     "phaser": "^3.13.0"
   },
   "devDependencies": {
