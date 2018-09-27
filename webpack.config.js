@@ -5,16 +5,18 @@ const HtmlWebpackHarddiskPlugin = require('html-webpack-harddisk-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin')
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
 
 module.exports = {
     entry: ['./src/index.js'],
     output: {
         path: path.resolve(__dirname, 'docs'),
-        filename: '[name].js'
+        filename: '[name].js',
+        publicPath: './'
     },
     devtool: 'source-map',
     devServer: {
-        contentBase: './'
+        contentBase: './docs/'
     },
     optimization: {
         splitChunks: {
@@ -50,7 +52,8 @@ module.exports = {
             },
             CANVAS_RENDERER: JSON.stringify(true),
             WEBGL_RENDERER: JSON.stringify(true)
-        })
+        }),
+        new CopyWebpackPlugin([{ from: 'assets', to: 'assets' }])
     ],
     module: {
         rules: [

@@ -363,7 +363,7 @@
             var n = i(0),
                 s = i(47),
                 r = i(143),
-                o = i(244),
+                o = i(242),
                 a = i(53),
                 h = i(146),
                 l = new n({
@@ -672,7 +672,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(0),
-                s = i(251),
+                s = i(249),
                 r = i(90),
                 o = i(11),
                 a = new n({
@@ -784,27 +784,27 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             t.exports = {
-                Alpha: i(240),
-                Animation: i(241),
-                BlendMode: i(242),
+                Alpha: i(238),
+                Animation: i(239),
+                BlendMode: i(240),
                 ComputedSize: i(482),
                 Crop: i(483),
-                Depth: i(243),
+                Depth: i(241),
                 Flip: i(484),
                 GetBounds: i(485),
-                Mask: i(247),
+                Mask: i(245),
                 Origin: i(486),
                 Pipeline: i(108),
                 ScaleMode: i(487),
-                ScrollFactor: i(250),
+                ScrollFactor: i(248),
                 Size: i(488),
                 Texture: i(489),
                 TextureCrop: i(490),
                 Tint: i(491),
-                ToJSON: i(251),
-                Transform: i(252),
+                ToJSON: i(249),
+                Transform: i(250),
                 TransformMatrix: i(54),
-                Visible: i(253)
+                Visible: i(251)
             }
         },
         function(t, e) {
@@ -1113,7 +1113,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(237),
+            var n = i(235),
                 s = {
                     PI2: 2 * Math.PI,
                     TAU: 0.5 * Math.PI,
@@ -1222,8 +1222,8 @@
             var n = i(0),
                 s = i(20),
                 r = i(1),
-                o = i(200),
-                a = i(201),
+                o = i(198),
+                a = i(199),
                 h = i(393),
                 l = i(127),
                 u = new n({
@@ -1390,7 +1390,7 @@
                 o = i(102),
                 a = i(17),
                 h = i(33),
-                l = i(205)
+                l = i(203)
             !(function() {
                 ;(n._inertiaScale = 4),
                     (n._nextCollidingGroupId = 1),
@@ -2396,9 +2396,9 @@
              */
             var n = i(0),
                 s = i(157),
-                r = i(266),
+                r = i(264),
                 o = i(158),
-                a = i(267),
+                a = i(265),
                 h = new n({
                     initialize: function(t, e, i, n) {
                         void 0 === t && (t = 0),
@@ -2768,7 +2768,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(0),
-                s = i(245),
+                s = i(243),
                 r = i(144),
                 o = i(145),
                 a = i(3),
@@ -4780,8 +4780,8 @@
              */
             var n = i(0),
                 s = i(46),
-                r = i(236),
-                o = i(238),
+                r = i(234),
+                o = i(236),
                 a = i(142),
                 h = new n({
                     initialize: function(t, e, i) {
@@ -5484,7 +5484,7 @@
                 r = i(32),
                 o = i(102),
                 a = i(33),
-                h = i(205),
+                h = i(203),
                 l = i(17)
             ;(n._warming = 0.4),
                 (n._torqueDampen = 1),
@@ -6011,7 +6011,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(224),
+            var n = i(222),
                 s = i(0),
                 r = i(1),
                 o = i(4),
@@ -7764,7 +7764,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(176),
+            var n = i(174),
                 s = i(0),
                 r = i(2),
                 o = i(121),
@@ -7921,7 +7921,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(177),
+            var n = i(175),
                 s = i(331)
             t.exports = function(t, e) {
                 if ((void 0 === e && (e = 90), !n(t))) return null
@@ -8612,7 +8612,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             t.exports = {
-                CalculateFacesAt: i(212),
+                CalculateFacesAt: i(210),
                 CalculateFacesWithin: i(52),
                 Copy: i(1083),
                 CreateFromTiles: i(1084),
@@ -8630,7 +8630,7 @@
                 HasTileAt: i(445),
                 HasTileAtWorldXY: i(1094),
                 IsInLayerBounds: i(103),
-                PutTileAt: i(213),
+                PutTileAt: i(211),
                 PutTileAtWorldXY: i(1095),
                 PutTilesAt: i(1096),
                 Randomize: i(1097),
@@ -8834,17 +8834,17 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(219),
+            var n = i(217),
                 s = i(13),
                 r = i(97),
                 o = i(96),
                 a = i(136),
                 h = i(459),
-                l = i(217),
+                l = i(215),
                 u = i(4),
-                c = i(218),
-                d = i(220),
-                f = i(221)
+                c = i(216),
+                d = i(218),
+                f = i(219)
             t.exports = function(t, e, i) {
                 void 0 === i && (i = n)
                 for (
@@ -9295,10 +9295,10 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(265),
-                s = i(268),
-                r = i(270),
-                o = i(271)
+            var n = i(263),
+                s = i(266),
+                r = i(268),
+                o = i(269)
             t.exports = function(t) {
                 switch (typeof t) {
                     case 'string':
@@ -9393,18 +9393,18 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(273),
-                s = i(274),
-                r = i(275),
-                o = i(276),
-                a = i(277),
-                h = i(278),
-                l = i(279),
-                u = i(280),
-                c = i(281),
-                d = i(282),
-                f = i(283),
-                p = i(284)
+            var n = i(271),
+                s = i(272),
+                r = i(273),
+                o = i(274),
+                a = i(275),
+                h = i(276),
+                l = i(277),
+                u = i(278),
+                c = i(279),
+                d = i(280),
+                f = i(281),
+                p = i(282)
             t.exports = {
                 Power0: l,
                 Power1: u.Out,
@@ -9651,1032 +9651,6 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(303),
-                s = i(0),
-                r = i(26),
-                o = i(304),
-                a = i(88),
-                h = i(159),
-                l = i(54),
-                u = new s({
-                    initialize: function(t) {
-                        ;(this.game = t),
-                            (this.type = r.CANVAS),
-                            (this.drawCount = 0),
-                            (this.width = t.config.width),
-                            (this.height = t.config.height),
-                            (this.config = {
-                                clearBeforeRender: t.config.clearBeforeRender,
-                                backgroundColor: t.config.backgroundColor,
-                                resolution: t.config.resolution,
-                                autoResize: t.config.autoResize,
-                                antialias: t.config.antialias,
-                                roundPixels: t.config.roundPixels
-                            }),
-                            (this.scaleMode = t.config.antialias ? a.LINEAR : a.NEAREST),
-                            (this.gameCanvas = t.canvas),
-                            (this.gameContext = this.game.config.context
-                                ? this.game.config.context
-                                : this.gameCanvas.getContext('2d')),
-                            (this.currentContext = this.gameContext),
-                            (this.blendModes = o()),
-                            (this.currentScaleMode = 0),
-                            (this.snapshotCallback = null),
-                            (this.snapshotType = null),
-                            (this.snapshotEncoder = null),
-                            (this._tempMatrix1 = new l()),
-                            (this._tempMatrix2 = new l()),
-                            (this._tempMatrix3 = new l()),
-                            (this._tempMatrix4 = new l()),
-                            this.init()
-                    },
-                    init: function() {
-                        this.resize(this.width, this.height)
-                    },
-                    resize: function(t, e) {
-                        var i = this.config.resolution
-                        ;(this.width = t * i),
-                            (this.height = e * i),
-                            (this.gameCanvas.width = this.width),
-                            (this.gameCanvas.height = this.height),
-                            this.config.autoResize &&
-                                ((this.gameCanvas.style.width = this.width / i + 'px'),
-                                (this.gameCanvas.style.height = this.height / i + 'px')),
-                            this.scaleMode === a.NEAREST && h.disable(this.gameContext)
-                    },
-                    onContextLost: function() {},
-                    onContextRestored: function() {},
-                    resetTransform: function() {
-                        this.currentContext.setTransform(1, 0, 0, 1, 0, 0)
-                    },
-                    setBlendMode: function(t) {
-                        return (this.currentContext.globalCompositeOperation = t), this
-                    },
-                    setContext: function(t) {
-                        return (this.currentContext = t || this.gameContext), this
-                    },
-                    setAlpha: function(t) {
-                        return (this.currentContext.globalAlpha = t), this
-                    },
-                    preRender: function() {
-                        var t = this.gameContext,
-                            e = this.config,
-                            i = this.width,
-                            n = this.height
-                        e.clearBeforeRender && t.clearRect(0, 0, i, n),
-                            e.transparent ||
-                                ((t.fillStyle = e.backgroundColor.rgba), t.fillRect(0, 0, i, n)),
-                            (this.drawCount = 0)
-                    },
-                    render: function(t, e, i, n) {
-                        var s = e.list,
-                            r = s.length,
-                            o = n._cx,
-                            a = n._cy,
-                            h = n._cw,
-                            l = n._ch,
-                            u = n.renderToTexture ? n.context : t.sys.context,
-                            c = 0 !== o || 0 !== a || h !== u.canvas.width || l !== u.canvas.height
-                        ;(this.currentContext = u),
-                            n.transparent ||
-                                ((u.fillStyle = n.backgroundColor.rgba), u.fillRect(o, a, h, l)),
-                            (u.globalAlpha = n.alpha),
-                            (u.globalCompositeOperation = 'source-over'),
-                            (this.drawCount += s.length),
-                            c && (u.save(), u.beginPath(), u.rect(o, a, h, l), u.clip()),
-                            n.renderToTexture && n.emit('prerender', n),
-                            n.matrix.copyToContext(u)
-                        for (var d = 0; d < r; d++) {
-                            var f = s[d]
-                            f.willRender(n) &&
-                                (f.mask && f.mask.preRenderCanvas(this, f, n),
-                                f.renderCanvas(this, f, i, n),
-                                f.mask && f.mask.postRenderCanvas(this, f, n))
-                        }
-                        u.setTransform(1, 0, 0, 1, 0, 0),
-                            (u.globalCompositeOperation = 'source-over'),
-                            (u.globalAlpha = 1),
-                            n.flashEffect.postRenderCanvas(u),
-                            n.fadeEffect.postRenderCanvas(u),
-                            (n.dirty = !1),
-                            c && u.restore(),
-                            n.renderToTexture &&
-                                (n.emit('postrender', n), t.sys.context.drawImage(n.canvas, o, a))
-                    },
-                    postRender: function() {
-                        var t = this.gameContext
-                        ;(t.globalAlpha = 1),
-                            (t.globalCompositeOperation = 'source-over'),
-                            this.snapshotCallback &&
-                                (this.snapshotCallback(
-                                    n(this.gameCanvas, this.snapshotType, this.snapshotEncoder)
-                                ),
-                                (this.snapshotCallback = null))
-                    },
-                    snapshot: function(t, e, i) {
-                        ;(this.snapshotCallback = t),
-                            (this.snapshotType = e),
-                            (this.snapshotEncoder = i)
-                    },
-                    batchSprite: function(t, e, i, n) {
-                        var s = i.alpha * t.alpha
-                        if (0 !== s) {
-                            var r = this.currentContext,
-                                o = this._tempMatrix1,
-                                a = this._tempMatrix2,
-                                h = this._tempMatrix3,
-                                l = e.canvasData,
-                                u = l.x,
-                                c = l.y,
-                                d = e.width,
-                                f = e.height,
-                                p = e.source.resolution,
-                                g = -t.displayOriginX + e.x,
-                                v = -t.displayOriginY + e.y,
-                                y = t.flipX ? -1 : 1,
-                                m = t.flipY ? -1 : 1
-                            if (t.isCropped) {
-                                var x = t._crop
-                                ;(x.flipX === t.flipX && x.flipY === t.flipY) ||
-                                    e.updateCropUVs(x, t.flipX, t.flipY),
-                                    (d = x.cw),
-                                    (f = x.ch),
-                                    (u = x.cx),
-                                    (c = x.cy),
-                                    (g = -t.displayOriginX + x.x),
-                                    (v = -t.displayOriginY + x.y),
-                                    -1 === y &&
-                                        (g >= 0 ? (g = -(g + d)) : g < 0 && (g = Math.abs(g) - d)),
-                                    -1 === m &&
-                                        (v >= 0 ? (v = -(v + f)) : v < 0 && (v = Math.abs(v) - f))
-                            }
-                            a.applyITRS(t.x, t.y, t.rotation, t.scaleX, t.scaleY),
-                                o.copyFrom(i.matrix),
-                                n
-                                    ? (o.multiplyWithOffset(
-                                          n,
-                                          -i.scrollX * t.scrollFactorX,
-                                          -i.scrollY * t.scrollFactorY
-                                      ),
-                                      (a.e = t.x),
-                                      (a.f = t.y),
-                                      o.multiply(a, h))
-                                    : ((a.e -= i.scrollX * t.scrollFactorX),
-                                      (a.f -= i.scrollY * t.scrollFactorY),
-                                      o.multiply(a, h)),
-                                r.save(),
-                                h.setToContext(r),
-                                r.scale(y, m),
-                                (r.globalCompositeOperation = this.blendModes[t.blendMode]),
-                                (r.globalAlpha = s),
-                                r.drawImage(e.source.image, u, c, d, f, g, v, d / p, f / p),
-                                r.restore()
-                        }
-                    },
-                    destroy: function() {
-                        ;(this.gameCanvas = null), (this.gameContext = null), (this.game = null)
-                    }
-                })
-            t.exports = u
-        },
-        function(t, e, i) {
-            /**
-             * @author       Richard Davey <rich@photonstorm.com>
-             * @author       Felipe Alfonso <@bitnenfer>
-             * @copyright    2018 Photon Storm Ltd.
-             * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
-             */
-            var n = i(110),
-                s = i(0),
-                r = i(26),
-                o = i(114),
-                a = i(92),
-                h = i(54),
-                l = i(10),
-                u = i(305),
-                c = i(306),
-                d = i(172),
-                f = i(173),
-                p = new s({
-                    initialize: function(t) {
-                        var e = this,
-                            i = t.config,
-                            s = {
-                                alpha: i.transparent,
-                                depth: !1,
-                                antialias: i.antialias,
-                                premultipliedAlpha: i.premultipliedAlpha,
-                                stencil: !0,
-                                preserveDrawingBuffer: i.preserveDrawingBuffer,
-                                failIfMajorPerformanceCaveat: i.failIfMajorPerformanceCaveat,
-                                powerPreference: i.powerPreference
-                            }
-                        ;(this.config = {
-                            clearBeforeRender: i.clearBeforeRender,
-                            antialias: i.antialias,
-                            backgroundColor: i.backgroundColor,
-                            contextCreation: s,
-                            resolution: i.resolution,
-                            autoResize: i.autoResize,
-                            roundPixels: i.roundPixels,
-                            maxTextures: i.maxTextures,
-                            maxTextureSize: i.maxTextureSize,
-                            batchSize: i.batchSize
-                        }),
-                            (this.game = t),
-                            (this.type = r.WEBGL),
-                            (this.width = t.config.width),
-                            (this.height = t.config.height),
-                            (this.canvas = t.canvas),
-                            (this.lostContextCallbacks = []),
-                            (this.restoredContextCallbacks = []),
-                            (this.blendModes = []),
-                            (this.nativeTextures = []),
-                            (this.contextLost = !1),
-                            (this.pipelines = null),
-                            (this.snapshotState = { callback: null, type: null, encoder: null }),
-                            (this.currentActiveTextureUnit = 0),
-                            (this.currentTextures = new Array(16)),
-                            (this.currentFramebuffer = null),
-                            (this.currentPipeline = null),
-                            (this.currentProgram = null),
-                            (this.currentVertexBuffer = null),
-                            (this.currentIndexBuffer = null),
-                            (this.currentBlendMode = 1 / 0),
-                            (this.currentScissorEnabled = !1),
-                            (this.currentScissor = null),
-                            (this.scissorStack = []),
-                            this.canvas.addEventListener(
-                                'webglcontextlost',
-                                function(t) {
-                                    ;(e.contextLost = !0), t.preventDefault()
-                                    for (var i = 0; i < e.lostContextCallbacks.length; ++i) {
-                                        var n = e.lostContextCallbacks[i]
-                                        n[0].call(n[1], e)
-                                    }
-                                },
-                                !1
-                            ),
-                            this.canvas.addEventListener(
-                                'webglcontextrestored',
-                                function() {
-                                    ;(e.contextLost = !1), e.init(e.config)
-                                    for (var t = 0; t < e.restoredContextCallbacks.length; ++t) {
-                                        var i = e.restoredContextCallbacks[t]
-                                        i[0].call(i[1], e)
-                                    }
-                                },
-                                !1
-                            ),
-                            (this.gl = null),
-                            (this.supportedExtensions = null),
-                            (this.extensions = {}),
-                            (this.glFormats = []),
-                            (this.compression = { ETC1: !1, PVRTC: !1, S3TC: !1 }),
-                            (this.drawingBufferHeight = 0),
-                            (this.blankTexture = null),
-                            (this.defaultCamera = new n(0, 0, 0, 0)),
-                            (this._tempMatrix1 = new h()),
-                            (this._tempMatrix2 = new h()),
-                            (this._tempMatrix3 = new h()),
-                            (this._tempMatrix4 = new h()),
-                            this.init(this.config)
-                    },
-                    init: function(t) {
-                        var e,
-                            i = this.canvas,
-                            n = t.backgroundColor
-                        if (
-                            !(e = this.game.config.context
-                                ? this.game.config.context
-                                : i.getContext('webgl', t.contextCreation) ||
-                                  i.getContext('experimental-webgl', t.contextCreation)) ||
-                            e.isContextLost()
-                        )
-                            throw ((this.contextLost = !0), new Error('WebGL unsupported'))
-                        ;(this.gl = e), (this.game.context = e)
-                        for (var s = 0; s <= 16; s++)
-                            this.blendModes.push({
-                                func: [e.ONE, e.ONE_MINUS_SRC_ALPHA],
-                                equation: e.FUNC_ADD
-                            })
-                        ;(this.blendModes[1].func = [e.ONE, e.DST_ALPHA]),
-                            (this.blendModes[2].func = [e.DST_COLOR, e.ONE_MINUS_SRC_ALPHA]),
-                            (this.blendModes[3].func = [e.ONE, e.ONE_MINUS_SRC_COLOR]),
-                            (this.glFormats[0] = e.BYTE),
-                            (this.glFormats[1] = e.SHORT),
-                            (this.glFormats[2] = e.UNSIGNED_BYTE),
-                            (this.glFormats[3] = e.UNSIGNED_SHORT),
-                            (this.glFormats[4] = e.FLOAT)
-                        var o = e.getSupportedExtensions()
-                        t.maxTextures ||
-                            (t.maxTextures = e.getParameter(e.MAX_TEXTURE_IMAGE_UNITS)),
-                            t.maxTextureSize ||
-                                (t.maxTextureSize = e.getParameter(e.MAX_TEXTURE_SIZE))
-                        var a = 'WEBGL_compressed_texture_',
-                            h = 'WEBKIT_' + a
-                        ;(this.compression.ETC1 =
-                            e.getExtension(a + 'etc1') || e.getExtension(h + 'etc1')),
-                            (this.compression.PVRTC =
-                                e.getExtension(a + 'pvrtc') || e.getExtension(h + 'pvrtc')),
-                            (this.compression.S3TC =
-                                e.getExtension(a + 's3tc') || e.getExtension(h + 's3tc')),
-                            (this.supportedExtensions = o),
-                            e.disable(e.DEPTH_TEST),
-                            e.disable(e.CULL_FACE),
-                            e.enable(e.BLEND),
-                            e.clearColor(n.redGL, n.greenGL, n.blueGL, 1)
-                        for (var l = 0; l < this.currentTextures.length; ++l)
-                            this.currentTextures[l] = null
-                        return (
-                            (this.pipelines = {}),
-                            this.addPipeline(
-                                'TextureTintPipeline',
-                                new f({ game: this.game, renderer: this })
-                            ),
-                            this.addPipeline(
-                                'BitmapMaskPipeline',
-                                new c({ game: this.game, renderer: this })
-                            ),
-                            this.addPipeline('Light2D', new d({ game: this.game, renderer: this })),
-                            this.setBlendMode(r.BlendModes.NORMAL),
-                            this.resize(this.width, this.height),
-                            this.game.events.once('texturesready', this.boot, this),
-                            this
-                        )
-                    },
-                    boot: function() {
-                        for (var t in this.pipelines) this.pipelines[t].boot()
-                        var e = this.game.textures.getFrame('__DEFAULT')
-                        ;(this.pipelines.TextureTintPipeline.currentFrame = e),
-                            (this.blankTexture = e)
-                    },
-                    resize: function(t, e) {
-                        var i = this.gl,
-                            n = this.pipelines,
-                            s = this.config.resolution
-                        for (var r in ((this.width = Math.floor(t * s)),
-                        (this.height = Math.floor(e * s)),
-                        (this.canvas.width = this.width),
-                        (this.canvas.height = this.height),
-                        this.config.autoResize &&
-                            ((this.canvas.style.width = this.width / s + 'px'),
-                            (this.canvas.style.height = this.height / s + 'px')),
-                        i.viewport(0, 0, this.width, this.height),
-                        n))
-                            n[r].resize(t, e, s)
-                        return (
-                            (this.drawingBufferHeight = i.drawingBufferHeight),
-                            this.defaultCamera.setSize(t, e),
-                            this
-                        )
-                    },
-                    onContextRestored: function(t, e) {
-                        return this.restoredContextCallbacks.push([t, e]), this
-                    },
-                    onContextLost: function(t, e) {
-                        return this.lostContextCallbacks.push([t, e]), this
-                    },
-                    hasExtension: function(t) {
-                        return !!this.supportedExtensions && this.supportedExtensions.indexOf(t)
-                    },
-                    getExtension: function(t) {
-                        return this.hasExtension(t)
-                            ? (t in this.extensions ||
-                                  (this.extensions[t] = this.gl.getExtension(t)),
-                              this.extensions[t])
-                            : null
-                    },
-                    flush: function() {
-                        this.currentPipeline && this.currentPipeline.flush()
-                    },
-                    hasPipeline: function(t) {
-                        return t in this.pipelines
-                    },
-                    getPipeline: function(t) {
-                        return this.hasPipeline(t) ? this.pipelines[t] : null
-                    },
-                    removePipeline: function(t) {
-                        return delete this.pipelines[t], this
-                    },
-                    addPipeline: function(t, e) {
-                        return (
-                            this.hasPipeline(t)
-                                ? console.warn('Pipeline', t, ' already exists.')
-                                : (this.pipelines[t] = e),
-                            (e.name = t),
-                            this.pipelines[t].resize(
-                                this.width,
-                                this.height,
-                                this.config.resolution
-                            ),
-                            e
-                        )
-                    },
-                    pushScissor: function(t, e, i, n) {
-                        var s = [t, e, i, n]
-                        return (
-                            this.scissorStack.push(s),
-                            this.setScissor(t, e, i, n),
-                            (this.currentScissor = s),
-                            s
-                        )
-                    },
-                    setScissor: function(t, e, i, n) {
-                        var s = this.gl,
-                            r = this.currentScissor,
-                            o = r[0],
-                            a = r[1],
-                            h = r[2],
-                            l = r[3]
-                        ;(o === t && a === e && h === i && l === n) ||
-                            (this.flush(),
-                            i > 0 && n > 0 && s.scissor(t, this.drawingBufferHeight - e - n, i, n))
-                    },
-                    popScissor: function() {
-                        var t = this.scissorStack
-                        t.pop()
-                        var e = t[t.length - 1]
-                        e && this.setScissor(e[0], e[1], e[2], e[3]), (this.currentScissor = e)
-                    },
-                    setPipeline: function(t, e) {
-                        return (
-                            (this.currentPipeline === t &&
-                                this.currentPipeline.vertexBuffer === this.currentVertexBuffer &&
-                                this.currentPipeline.program === this.currentProgram) ||
-                                (this.flush(),
-                                (this.currentPipeline = t),
-                                this.currentPipeline.bind()),
-                            this.currentPipeline.onBind(e),
-                            this.currentPipeline
-                        )
-                    },
-                    setBlendMode: function(t) {
-                        var e = this.gl,
-                            i = this.blendModes[t]
-                        return (
-                            t !== r.BlendModes.SKIP_CHECK &&
-                            this.currentBlendMode !== t &&
-                            (this.flush(),
-                            e.enable(e.BLEND),
-                            e.blendEquation(i.equation),
-                            i.func.length > 2
-                                ? e.blendFuncSeparate(i.func[0], i.func[1], i.func[2], i.func[3])
-                                : e.blendFunc(i.func[0], i.func[1]),
-                            (this.currentBlendMode = t),
-                            !0)
-                        )
-                    },
-                    addBlendMode: function(t, e) {
-                        return this.blendModes.push({ func: t, equation: e }) - 1
-                    },
-                    updateBlendMode: function(t, e, i) {
-                        return (
-                            this.blendModes[t] &&
-                                ((this.blendModes[t].func = e),
-                                i && (this.blendModes[t].equation = i)),
-                            this
-                        )
-                    },
-                    removeBlendMode: function(t) {
-                        return t > 16 && this.blendModes[t] && this.blendModes.splice(t, 1), this
-                    },
-                    setBlankTexture: function(t) {
-                        void 0 === t && (t = !1),
-                            (!t &&
-                                0 === this.currentActiveTextureUnit &&
-                                this.currentTextures[0]) ||
-                                this.setTexture2D(this.blankTexture.glTexture, 0)
-                    },
-                    setTexture2D: function(t, e) {
-                        var i = this.gl
-                        return (
-                            t !== this.currentTextures[e] &&
-                                (this.flush(),
-                                this.currentActiveTextureUnit !== e &&
-                                    (i.activeTexture(i.TEXTURE0 + e),
-                                    (this.currentActiveTextureUnit = e)),
-                                i.bindTexture(i.TEXTURE_2D, t),
-                                (this.currentTextures[e] = t)),
-                            this
-                        )
-                    },
-                    setFramebuffer: function(t) {
-                        var e = this.gl,
-                            i = this.width,
-                            n = this.height
-                        return (
-                            t !== this.currentFramebuffer &&
-                                (t && t.renderTexture
-                                    ? ((i = t.renderTexture.width), (n = t.renderTexture.height))
-                                    : this.flush(),
-                                e.bindFramebuffer(e.FRAMEBUFFER, t),
-                                e.viewport(0, 0, i, n),
-                                (this.currentFramebuffer = t)),
-                            this
-                        )
-                    },
-                    setProgram: function(t) {
-                        var e = this.gl
-                        return (
-                            t !== this.currentProgram &&
-                                (this.flush(), e.useProgram(t), (this.currentProgram = t)),
-                            this
-                        )
-                    },
-                    setVertexBuffer: function(t) {
-                        var e = this.gl
-                        return (
-                            t !== this.currentVertexBuffer &&
-                                (this.flush(),
-                                e.bindBuffer(e.ARRAY_BUFFER, t),
-                                (this.currentVertexBuffer = t)),
-                            this
-                        )
-                    },
-                    setIndexBuffer: function(t) {
-                        var e = this.gl
-                        return (
-                            t !== this.currentIndexBuffer &&
-                                (this.flush(),
-                                e.bindBuffer(e.ELEMENT_ARRAY_BUFFER, t),
-                                (this.currentIndexBuffer = t)),
-                            this
-                        )
-                    },
-                    createTextureFromSource: function(t, e, i, n) {
-                        var s = this.gl,
-                            a = s.NEAREST,
-                            h = s.CLAMP_TO_EDGE
-                        return (
-                            (e = t ? t.width : e),
-                            (i = t ? t.height : i),
-                            o(e, i) && (h = s.REPEAT),
-                            n === r.ScaleModes.LINEAR && this.config.antialias && (a = s.LINEAR),
-                            t || 'number' != typeof e || 'number' != typeof i
-                                ? this.createTexture2D(0, a, a, h, h, s.RGBA, t)
-                                : this.createTexture2D(0, a, a, h, h, s.RGBA, null, e, i)
-                        )
-                    },
-                    createTexture2D: function(t, e, i, n, s, r, o, a, h, l) {
-                        l = void 0 === l || null === l || l
-                        var u = this.gl,
-                            c = u.createTexture()
-                        return (
-                            this.setTexture2D(c, 0),
-                            u.texParameteri(u.TEXTURE_2D, u.TEXTURE_MIN_FILTER, e),
-                            u.texParameteri(u.TEXTURE_2D, u.TEXTURE_MAG_FILTER, i),
-                            u.texParameteri(u.TEXTURE_2D, u.TEXTURE_WRAP_S, s),
-                            u.texParameteri(u.TEXTURE_2D, u.TEXTURE_WRAP_T, n),
-                            u.pixelStorei(u.UNPACK_PREMULTIPLY_ALPHA_WEBGL, l),
-                            null === o || void 0 === o
-                                ? u.texImage2D(
-                                      u.TEXTURE_2D,
-                                      t,
-                                      r,
-                                      a,
-                                      h,
-                                      0,
-                                      r,
-                                      u.UNSIGNED_BYTE,
-                                      null
-                                  )
-                                : (u.texImage2D(u.TEXTURE_2D, t, r, r, u.UNSIGNED_BYTE, o),
-                                  (a = o.width),
-                                  (h = o.height)),
-                            this.setTexture2D(null, 0),
-                            (c.isAlphaPremultiplied = l),
-                            (c.isRenderTexture = !1),
-                            (c.width = a),
-                            (c.height = h),
-                            this.nativeTextures.push(c),
-                            c
-                        )
-                    },
-                    createFramebuffer: function(t, e, i, n) {
-                        var s,
-                            r = this.gl,
-                            o = r.createFramebuffer()
-                        if ((this.setFramebuffer(o), n)) {
-                            var a = r.createRenderbuffer()
-                            r.bindRenderbuffer(r.RENDERBUFFER, a),
-                                r.renderbufferStorage(r.RENDERBUFFER, r.DEPTH_STENCIL, t, e),
-                                r.framebufferRenderbuffer(
-                                    r.FRAMEBUFFER,
-                                    r.DEPTH_STENCIL_ATTACHMENT,
-                                    r.RENDERBUFFER,
-                                    a
-                                )
-                        }
-                        if (
-                            ((i.isRenderTexture = !0),
-                            (i.isAlphaPremultiplied = !1),
-                            r.framebufferTexture2D(
-                                r.FRAMEBUFFER,
-                                r.COLOR_ATTACHMENT0,
-                                r.TEXTURE_2D,
-                                i,
-                                0
-                            ),
-                            (s = r.checkFramebufferStatus(r.FRAMEBUFFER)) !==
-                                r.FRAMEBUFFER_COMPLETE)
-                        ) {
-                            throw new Error(
-                                'Framebuffer incomplete. Framebuffer status: ' +
-                                    {
-                                        36054: 'Incomplete Attachment',
-                                        36055: 'Missing Attachment',
-                                        36057: 'Incomplete Dimensions',
-                                        36061: 'Framebuffer Unsupported'
-                                    }[s]
-                            )
-                        }
-                        return (o.renderTexture = i), this.setFramebuffer(null), o
-                    },
-                    createProgram: function(t, e) {
-                        var i = this.gl,
-                            n = i.createProgram(),
-                            s = i.createShader(i.VERTEX_SHADER),
-                            r = i.createShader(i.FRAGMENT_SHADER)
-                        if (
-                            (i.shaderSource(s, t),
-                            i.shaderSource(r, e),
-                            i.compileShader(s),
-                            i.compileShader(r),
-                            !i.getShaderParameter(s, i.COMPILE_STATUS))
-                        )
-                            throw new Error(
-                                'Failed to compile Vertex Shader:\n' + i.getShaderInfoLog(s)
-                            )
-                        if (!i.getShaderParameter(r, i.COMPILE_STATUS))
-                            throw new Error(
-                                'Failed to compile Fragment Shader:\n' + i.getShaderInfoLog(r)
-                            )
-                        if (
-                            (i.attachShader(n, s),
-                            i.attachShader(n, r),
-                            i.linkProgram(n),
-                            !i.getProgramParameter(n, i.LINK_STATUS))
-                        )
-                            throw new Error('Failed to link program:\n' + i.getProgramInfoLog(n))
-                        return n
-                    },
-                    createVertexBuffer: function(t, e) {
-                        var i = this.gl,
-                            n = i.createBuffer()
-                        return (
-                            this.setVertexBuffer(n),
-                            i.bufferData(i.ARRAY_BUFFER, t, e),
-                            this.setVertexBuffer(null),
-                            n
-                        )
-                    },
-                    createIndexBuffer: function(t, e) {
-                        var i = this.gl,
-                            n = i.createBuffer()
-                        return (
-                            this.setIndexBuffer(n),
-                            i.bufferData(i.ELEMENT_ARRAY_BUFFER, t, e),
-                            this.setIndexBuffer(null),
-                            n
-                        )
-                    },
-                    deleteTexture: function(t) {
-                        var e = this.nativeTextures.indexOf(t)
-                        return -1 !== e && a(this.nativeTextures, e), this.gl.deleteTexture(t), this
-                    },
-                    deleteFramebuffer: function(t) {
-                        return this.gl.deleteFramebuffer(t), this
-                    },
-                    deleteProgram: function(t) {
-                        return this.gl.deleteProgram(t), this
-                    },
-                    deleteBuffer: function(t) {
-                        return this.gl.deleteBuffer(t), this
-                    },
-                    preRenderCamera: function(t) {
-                        var e = t._cx,
-                            i = t._cy,
-                            n = t._cw,
-                            s = t._ch,
-                            r = this.pipelines.TextureTintPipeline,
-                            o = t.backgroundColor
-                        if (t.renderToTexture) {
-                            this.flush(),
-                                this.pushScissor(e, i, n, -s),
-                                this.setFramebuffer(t.framebuffer)
-                            var a = this.gl
-                            a.clearColor(0, 0, 0, 0),
-                                a.clear(a.COLOR_BUFFER_BIT),
-                                r.projOrtho(e, n + e, i, s + i, -1e3, 1e3),
-                                o.alphaGL > 0 &&
-                                    r.drawFillRect(
-                                        e,
-                                        i,
-                                        n + e,
-                                        s + i,
-                                        l.getTintFromFloats(o.redGL, o.greenGL, o.blueGL, 1),
-                                        o.alphaGL
-                                    ),
-                                t.emit('prerender', t)
-                        } else
-                            o.alphaGL > 0
-                                ? (this.pushScissor(e, i, n, s),
-                                  r.drawFillRect(
-                                      e,
-                                      i,
-                                      n,
-                                      s,
-                                      l.getTintFromFloats(o.redGL, o.greenGL, o.blueGL, 1),
-                                      o.alphaGL
-                                  ))
-                                : this.pushScissor(e, i, n, s)
-                    },
-                    postRenderCamera: function(t) {
-                        var e = this.pipelines.TextureTintPipeline
-                        if (
-                            (t.flashEffect.postRenderWebGL(e, l.getTintFromFloats),
-                            t.fadeEffect.postRenderWebGL(e, l.getTintFromFloats),
-                            (t.dirty = !1),
-                            this.popScissor(),
-                            t.renderToTexture)
-                        ) {
-                            e.flush(),
-                                this.setFramebuffer(null),
-                                t.emit('postrender', t),
-                                e.projOrtho(0, e.width, e.height, 0, -1e3, 1e3)
-                            var i = l.getTintAppendFloatAlpha
-                            ;(t.pipeline ? t.pipeline : e).batchTexture(
-                                t,
-                                t.glTexture,
-                                t.width,
-                                t.height,
-                                t.x,
-                                t.y,
-                                t.width,
-                                t.height,
-                                t.zoom,
-                                t.zoom,
-                                t.rotation,
-                                t.flipX,
-                                !t.flipY,
-                                1,
-                                1,
-                                0,
-                                0,
-                                0,
-                                0,
-                                t.width,
-                                t.height,
-                                i(t._tintTL, t._alphaTL),
-                                i(t._tintTR, t._alphaTR),
-                                i(t._tintBL, t._alphaBL),
-                                i(t._tintBR, t._alphaBR),
-                                t._isTinted && t.tintFill,
-                                0,
-                                0,
-                                this.defaultCamera,
-                                null
-                            ),
-                                this.setBlankTexture(!0)
-                        }
-                    },
-                    preRender: function() {
-                        if (!this.contextLost) {
-                            var t = this.gl,
-                                e = this.config.backgroundColor,
-                                i = this.pipelines
-                            for (var n in (this.config.clearBeforeRender &&
-                                (t.clearColor(e.redGL, e.greenGL, e.blueGL, e.alphaGL),
-                                t.clear(
-                                    t.COLOR_BUFFER_BIT | t.DEPTH_BUFFER_BIT | t.STENCIL_BUFFER_BIT
-                                )),
-                            t.enable(t.SCISSOR_TEST),
-                            i))
-                                i[n].onPreRender()
-                            ;(this.currentScissor = [0, 0, this.width, this.height]),
-                                (this.scissorStack = [this.currentScissor]),
-                                this.game.scene.customViewports &&
-                                    t.scissor(
-                                        0,
-                                        this.drawingBufferHeight - this.height,
-                                        this.width,
-                                        this.height
-                                    ),
-                                this.setPipeline(this.pipelines.TextureTintPipeline)
-                        }
-                    },
-                    render: function(t, e, i, n) {
-                        if (!this.contextLost) {
-                            var s = e.list,
-                                o = s.length,
-                                a = this.pipelines
-                            for (var h in a) a[h].onRender(t, n)
-                            this.preRenderCamera(n)
-                            for (var l = 0; l < o; l++) {
-                                var u = s[l]
-                                if (u.willRender(n)) {
-                                    u.blendMode !== this.currentBlendMode &&
-                                        this.setBlendMode(u.blendMode)
-                                    var c = u.mask
-                                    c
-                                        ? (c.preRenderWebGL(this, u, n),
-                                          u.renderWebGL(this, u, i, n),
-                                          c.postRenderWebGL(this, u))
-                                        : u.renderWebGL(this, u, i, n)
-                                }
-                            }
-                            this.setBlendMode(r.BlendModes.NORMAL), this.postRenderCamera(n)
-                        }
-                    },
-                    postRender: function() {
-                        if (!this.contextLost) {
-                            this.flush(),
-                                this.snapshotState.callback &&
-                                    (this.snapshotState.callback(
-                                        u(
-                                            this.canvas,
-                                            this.snapshotState.type,
-                                            this.snapshotState.encoder
-                                        )
-                                    ),
-                                    (this.snapshotState.callback = null))
-                            var t = this.pipelines
-                            for (var e in t) t[e].onPostRender()
-                        }
-                    },
-                    snapshot: function(t, e, i) {
-                        return (
-                            (this.snapshotState.callback = t),
-                            (this.snapshotState.type = e),
-                            (this.snapshotState.encoder = i),
-                            this
-                        )
-                    },
-                    canvasToTexture: function(t, e) {
-                        var i = this.gl
-                        e && this.deleteTexture(e)
-                        var n = i.CLAMP_TO_EDGE
-                        return (
-                            o(t.width, t.height) && (n = i.REPEAT),
-                            this.createTexture2D(
-                                0,
-                                i.NEAREST,
-                                i.NEAREST,
-                                n,
-                                n,
-                                i.RGBA,
-                                t,
-                                t.width,
-                                t.height,
-                                !0
-                            )
-                        )
-                    },
-                    setTextureFilter: function(t, e) {
-                        var i = this.gl,
-                            n = [i.LINEAR, i.NEAREST][e]
-                        return (
-                            this.setTexture2D(t, 0),
-                            i.texParameteri(i.TEXTURE_2D, i.TEXTURE_MIN_FILTER, n),
-                            i.texParameteri(i.TEXTURE_2D, i.TEXTURE_MAG_FILTER, n),
-                            this.setTexture2D(null, 0),
-                            this
-                        )
-                    },
-                    setFloat1: function(t, e, i) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform1f(this.gl.getUniformLocation(t, e), i),
-                            this
-                        )
-                    },
-                    setFloat2: function(t, e, i, n) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform2f(this.gl.getUniformLocation(t, e), i, n),
-                            this
-                        )
-                    },
-                    setFloat3: function(t, e, i, n, s) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform3f(this.gl.getUniformLocation(t, e), i, n, s),
-                            this
-                        )
-                    },
-                    setFloat4: function(t, e, i, n, s, r) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform4f(this.gl.getUniformLocation(t, e), i, n, s, r),
-                            this
-                        )
-                    },
-                    setFloat1v: function(t, e, i) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform1fv(this.gl.getUniformLocation(t, e), i),
-                            this
-                        )
-                    },
-                    setFloat2v: function(t, e, i) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform2fv(this.gl.getUniformLocation(t, e), i),
-                            this
-                        )
-                    },
-                    setFloat3v: function(t, e, i) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform3fv(this.gl.getUniformLocation(t, e), i),
-                            this
-                        )
-                    },
-                    setFloat4v: function(t, e, i) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform4fv(this.gl.getUniformLocation(t, e), i),
-                            this
-                        )
-                    },
-                    setInt1: function(t, e, i) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform1i(this.gl.getUniformLocation(t, e), i),
-                            this
-                        )
-                    },
-                    setInt2: function(t, e, i, n) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform2i(this.gl.getUniformLocation(t, e), i, n),
-                            this
-                        )
-                    },
-                    setInt3: function(t, e, i, n, s) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform3i(this.gl.getUniformLocation(t, e), i, n, s),
-                            this
-                        )
-                    },
-                    setInt4: function(t, e, i, n, s, r) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniform4i(this.gl.getUniformLocation(t, e), i, n, s, r),
-                            this
-                        )
-                    },
-                    setMatrix2: function(t, e, i, n) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniformMatrix2fv(this.gl.getUniformLocation(t, e), i, n),
-                            this
-                        )
-                    },
-                    setMatrix3: function(t, e, i, n) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniformMatrix3fv(this.gl.getUniformLocation(t, e), i, n),
-                            this
-                        )
-                    },
-                    setMatrix4: function(t, e, i, n) {
-                        return (
-                            this.setProgram(t),
-                            this.gl.uniformMatrix4fv(this.gl.getUniformLocation(t, e), i, n),
-                            this
-                        )
-                    },
-                    getMaxTextures: function() {
-                        return this.config.maxTextures
-                    },
-                    getMaxTextureSize: function() {
-                        return this.config.maxTextureSize
-                    },
-                    destroy: function() {
-                        for (var t in this.pipelines)
-                            this.pipelines[t].destroy(), delete this.pipelines[t]
-                        for (var e = 0; e < this.nativeTextures.length; ++e)
-                            this.deleteTexture(this.nativeTextures[e]),
-                                delete this.nativeTextures[e]
-                        delete this.gl,
-                            delete this.game,
-                            (this.contextLost = !0),
-                            (this.extensions = {}),
-                            (this.nativeTextures.length = 0)
-                    }
-                })
-            t.exports = p
-        },
-        function(t, e, i) {
-            /**
-             * @author       Richard Davey <rich@photonstorm.com>
-             * @author       Felipe Alfonso <@bitnenfer>
-             * @copyright    2018 Photon Storm Ltd.
-             * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
-             */
             var n = i(0),
                 s = i(10),
                 r = new n({
@@ -10854,7 +9828,7 @@
              */
             var n = i(0),
                 s = i(632),
-                r = i(173),
+                r = i(171),
                 o = new n({
                     Extends: r,
                     initialize: function(t) {
@@ -11079,7 +10053,7 @@
                 h = i(635),
                 l = i(54),
                 u = i(10),
-                c = i(171),
+                c = i(169),
                 d = new n({
                     Extends: c,
                     Mixins: [o],
@@ -12031,10 +11005,10 @@
                 CountAllMatching: i(670),
                 Each: i(671),
                 EachInRange: i(672),
-                FindClosestInSorted: i(259),
+                FindClosestInSorted: i(257),
                 GetAll: i(673),
                 GetFirst: i(674),
-                GetRandom: i(178),
+                GetRandom: i(176),
                 MoveDown: i(675),
                 MoveTo: i(676),
                 MoveUp: i(677),
@@ -12047,8 +11021,8 @@
                 RemoveBetween: i(681),
                 RemoveRandomElement: i(682),
                 Replace: i(683),
-                RotateLeft: i(255),
-                RotateRight: i(256),
+                RotateLeft: i(253),
+                RotateRight: i(254),
                 SafeRange: i(65),
                 SendToBack: i(684),
                 SetAll: i(685),
@@ -12199,7 +11173,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(176),
+            var n = i(174),
                 s = i(61),
                 r = i(0),
                 o = i(14),
@@ -12518,15 +11492,15 @@
              */
             var n = i(110),
                 s = i(0),
-                r = i(184),
-                o = i(240),
-                a = i(242),
-                h = i(243),
-                l = i(247),
+                r = i(182),
+                o = i(238),
+                a = i(240),
+                h = i(241),
+                l = i(245),
                 u = i(108),
-                c = i(252),
-                d = i(253),
-                f = i(250),
+                c = i(250),
+                d = i(251),
+                f = i(248),
                 p = i(93),
                 g = i(12),
                 v = i(1),
@@ -13914,7 +12888,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(0),
-                s = i(191),
+                s = i(189),
                 r = i(361),
                 o = new n({
                     initialize: function(t) {
@@ -14430,7 +13404,7 @@
                 o = i(8),
                 a = i(1),
                 h = i(7),
-                l = i(299),
+                l = i(297),
                 u = new n({
                     Extends: r,
                     initialize: function(t, e, i, n) {
@@ -15476,7 +14450,7 @@
         function(t, e, i) {
             var n = {}
             t.exports = n
-            var s = i(208),
+            var s = i(206),
                 r = i(130),
                 o = i(33)
             ;(n.collisions = function(t, e) {
@@ -15653,23 +14627,23 @@
             var n = i(437)
             ;(n.Body = i(25)),
                 (n.Composite = i(70)),
-                (n.World = i(211)),
-                (n.Detector = i(207)),
+                (n.World = i(209)),
+                (n.Detector = i(205)),
                 (n.Grid = i(438)),
                 (n.Pairs = i(439)),
                 (n.Pair = i(130)),
                 (n.Query = i(1063)),
                 (n.Resolver = i(440)),
-                (n.SAT = i(208)),
+                (n.SAT = i(206)),
                 (n.Constraint = i(87)),
                 (n.Common = i(17)),
                 (n.Engine = i(441)),
                 (n.Events = i(86)),
                 (n.Sleeping = i(102)),
-                (n.Plugin = i(210)),
+                (n.Plugin = i(208)),
                 (n.Bodies = i(58)),
                 (n.Composites = i(434)),
-                (n.Axes = i(205)),
+                (n.Axes = i(203)),
                 (n.Bounds = i(33)),
                 (n.Svg = i(1065)),
                 (n.Vector = i(32)),
@@ -15925,7 +14899,7 @@
              */
             var n = i(72),
                 s = i(103),
-                r = i(212),
+                r = i(210),
                 o = i(71)
             t.exports = function(t, e, i, a, h) {
                 if (!s(e, i, h)) return null
@@ -16577,7 +15551,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(0),
-                s = i(203),
+                s = i(201),
                 r = i(405),
                 o = i(406),
                 a = i(410),
@@ -16900,7 +15874,7 @@
                 var n = i(26),
                     s = i(19),
                     r = {
-                        Actions: i(224),
+                        Actions: i(222),
                         Animation: i(534),
                         Cache: i(535),
                         Cameras: i(536),
@@ -17006,15 +15980,15 @@
              */
             var n = i(140),
                 s = []
-            ;(s[n.BOTTOM_CENTER] = i(226)),
-                (s[n.BOTTOM_LEFT] = i(227)),
-                (s[n.BOTTOM_RIGHT] = i(228)),
-                (s[n.CENTER] = i(229)),
-                (s[n.LEFT_CENTER] = i(231)),
-                (s[n.RIGHT_CENTER] = i(232)),
-                (s[n.TOP_CENTER] = i(233)),
-                (s[n.TOP_LEFT] = i(234)),
-                (s[n.TOP_RIGHT] = i(235))
+            ;(s[n.BOTTOM_CENTER] = i(224)),
+                (s[n.BOTTOM_LEFT] = i(225)),
+                (s[n.BOTTOM_RIGHT] = i(226)),
+                (s[n.CENTER] = i(227)),
+                (s[n.LEFT_CENTER] = i(229)),
+                (s[n.RIGHT_CENTER] = i(230)),
+                (s[n.TOP_CENTER] = i(231)),
+                (s[n.TOP_LEFT] = i(232)),
+                (s[n.TOP_RIGHT] = i(233))
             t.exports = function(t, e, i, n, r) {
                 return s[i](t, e, n, r)
             }
@@ -17085,7 +16059,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(230),
+            var n = i(228),
                 s = i(73),
                 r = i(76)
             t.exports = function(t, e, i, o) {
@@ -17361,7 +16335,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(239),
+            var n = i(237),
                 s = i(141),
                 r = i(89),
                 o = i(18)
@@ -17789,8 +16763,8 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(248),
-                s = i(249),
+            var n = i(246),
+                s = i(247),
                 r = {
                     mask: null,
                     setMask: function(t) {
@@ -18257,8 +17231,8 @@
              */
             var n = i(23),
                 s = i(0),
-                r = i(259),
-                o = i(260),
+                r = i(257),
+                o = i(258),
                 a = i(4),
                 h = new s({
                     initialize: function(t, e, i) {
@@ -18566,7 +17540,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(258),
+            var n = i(256),
                 s = i(0),
                 r = i(154),
                 o = i(11),
@@ -18752,7 +17726,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(262),
+            var n = i(260),
                 s = new (i(0))({
                     initialize: function(t) {
                         ;(this.game = t),
@@ -18814,7 +17788,7 @@
                 o = i(23),
                 a = i(0),
                 h = i(14),
-                l = i(272),
+                l = i(270),
                 u = i(111),
                 c = i(9),
                 d = i(3),
@@ -19099,7 +18073,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(48),
-                s = i(269)
+                s = i(267)
             t.exports = function(t) {
                 var e = s(t)
                 return new n(e.r, e.g, e.b, e.a)
@@ -19255,7 +18229,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(286),
+            var n = i(284),
                 s = i(28),
                 r = i(4)
             t.exports = function(t) {
@@ -19316,7 +18290,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(0),
-                s = i(288),
+                s = i(286),
                 r = i(78),
                 o = i(3),
                 a = new n({
@@ -19660,7 +18634,7 @@
              */
             var n = i(0),
                 s = i(78),
-                r = i(292),
+                r = i(290),
                 o = i(3),
                 a = new n({
                     Extends: s,
@@ -19836,21 +18810,21 @@
              */
             var n = i(48)
             ;(n.ColorToRGBA = i(612)),
-                (n.ComponentToHex = i(296)),
+                (n.ComponentToHex = i(294)),
                 (n.GetColor = i(157)),
-                (n.GetColor32 = i(266)),
-                (n.HexStringToColor = i(265)),
+                (n.GetColor32 = i(264)),
+                (n.HexStringToColor = i(263)),
                 (n.HSLToColor = i(613)),
                 (n.HSVColorWheel = i(614)),
                 (n.HSVToRGB = i(158)),
-                (n.HueToComponent = i(297)),
-                (n.IntegerToColor = i(268)),
-                (n.IntegerToRGB = i(269)),
+                (n.HueToComponent = i(295)),
+                (n.IntegerToColor = i(266)),
+                (n.IntegerToRGB = i(267)),
                 (n.Interpolate = i(615)),
-                (n.ObjectToColor = i(270)),
+                (n.ObjectToColor = i(268)),
                 (n.RandomRGB = i(616)),
-                (n.RGBStringToColor = i(271)),
-                (n.RGBToHSV = i(267)),
+                (n.RGBStringToColor = i(269)),
+                (n.RGBToHSV = i(265)),
                 (n.RGBToString = i(617)),
                 (n.ValueToColor = i(156)),
                 (t.exports = n)
@@ -19982,7 +18956,7 @@
                 audio: i(626),
                 video: i(627),
                 fullscreen: i(628),
-                canvasFeatures: i(302)
+                canvasFeatures: i(300)
             }
         },
         function(t, e, i) {
@@ -20038,6 +19012,201 @@
                 })())),
             s)
         },
+        function(t, e, i) {
+            /**
+             * @author       Richard Davey <rich@photonstorm.com>
+             * @author       Felipe Alfonso <@bitnenfer>
+             * @copyright    2018 Photon Storm Ltd.
+             * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
+             */
+            var n = i(302),
+                s = i(0),
+                r = i(26),
+                o = i(303),
+                a = i(88),
+                h = i(159),
+                l = i(54),
+                u = new s({
+                    initialize: function(t) {
+                        ;(this.game = t),
+                            (this.type = r.CANVAS),
+                            (this.drawCount = 0),
+                            (this.width = t.config.width),
+                            (this.height = t.config.height),
+                            (this.config = {
+                                clearBeforeRender: t.config.clearBeforeRender,
+                                backgroundColor: t.config.backgroundColor,
+                                resolution: t.config.resolution,
+                                autoResize: t.config.autoResize,
+                                antialias: t.config.antialias,
+                                roundPixels: t.config.roundPixels
+                            }),
+                            (this.scaleMode = t.config.antialias ? a.LINEAR : a.NEAREST),
+                            (this.gameCanvas = t.canvas),
+                            (this.gameContext = this.game.config.context
+                                ? this.game.config.context
+                                : this.gameCanvas.getContext('2d')),
+                            (this.currentContext = this.gameContext),
+                            (this.blendModes = o()),
+                            (this.currentScaleMode = 0),
+                            (this.snapshotCallback = null),
+                            (this.snapshotType = null),
+                            (this.snapshotEncoder = null),
+                            (this._tempMatrix1 = new l()),
+                            (this._tempMatrix2 = new l()),
+                            (this._tempMatrix3 = new l()),
+                            (this._tempMatrix4 = new l()),
+                            this.init()
+                    },
+                    init: function() {
+                        this.resize(this.width, this.height)
+                    },
+                    resize: function(t, e) {
+                        var i = this.config.resolution
+                        ;(this.width = t * i),
+                            (this.height = e * i),
+                            (this.gameCanvas.width = this.width),
+                            (this.gameCanvas.height = this.height),
+                            this.config.autoResize &&
+                                ((this.gameCanvas.style.width = this.width / i + 'px'),
+                                (this.gameCanvas.style.height = this.height / i + 'px')),
+                            this.scaleMode === a.NEAREST && h.disable(this.gameContext)
+                    },
+                    onContextLost: function() {},
+                    onContextRestored: function() {},
+                    resetTransform: function() {
+                        this.currentContext.setTransform(1, 0, 0, 1, 0, 0)
+                    },
+                    setBlendMode: function(t) {
+                        return (this.currentContext.globalCompositeOperation = t), this
+                    },
+                    setContext: function(t) {
+                        return (this.currentContext = t || this.gameContext), this
+                    },
+                    setAlpha: function(t) {
+                        return (this.currentContext.globalAlpha = t), this
+                    },
+                    preRender: function() {
+                        var t = this.gameContext,
+                            e = this.config,
+                            i = this.width,
+                            n = this.height
+                        e.clearBeforeRender && t.clearRect(0, 0, i, n),
+                            e.transparent ||
+                                ((t.fillStyle = e.backgroundColor.rgba), t.fillRect(0, 0, i, n)),
+                            (this.drawCount = 0)
+                    },
+                    render: function(t, e, i, n) {
+                        var s = e.list,
+                            r = s.length,
+                            o = n._cx,
+                            a = n._cy,
+                            h = n._cw,
+                            l = n._ch,
+                            u = n.renderToTexture ? n.context : t.sys.context,
+                            c = 0 !== o || 0 !== a || h !== u.canvas.width || l !== u.canvas.height
+                        ;(this.currentContext = u),
+                            n.transparent ||
+                                ((u.fillStyle = n.backgroundColor.rgba), u.fillRect(o, a, h, l)),
+                            (u.globalAlpha = n.alpha),
+                            (u.globalCompositeOperation = 'source-over'),
+                            (this.drawCount += s.length),
+                            c && (u.save(), u.beginPath(), u.rect(o, a, h, l), u.clip()),
+                            n.renderToTexture && n.emit('prerender', n),
+                            n.matrix.copyToContext(u)
+                        for (var d = 0; d < r; d++) {
+                            var f = s[d]
+                            f.willRender(n) &&
+                                (f.mask && f.mask.preRenderCanvas(this, f, n),
+                                f.renderCanvas(this, f, i, n),
+                                f.mask && f.mask.postRenderCanvas(this, f, n))
+                        }
+                        u.setTransform(1, 0, 0, 1, 0, 0),
+                            (u.globalCompositeOperation = 'source-over'),
+                            (u.globalAlpha = 1),
+                            n.flashEffect.postRenderCanvas(u),
+                            n.fadeEffect.postRenderCanvas(u),
+                            (n.dirty = !1),
+                            c && u.restore(),
+                            n.renderToTexture &&
+                                (n.emit('postrender', n), t.sys.context.drawImage(n.canvas, o, a))
+                    },
+                    postRender: function() {
+                        var t = this.gameContext
+                        ;(t.globalAlpha = 1),
+                            (t.globalCompositeOperation = 'source-over'),
+                            this.snapshotCallback &&
+                                (this.snapshotCallback(
+                                    n(this.gameCanvas, this.snapshotType, this.snapshotEncoder)
+                                ),
+                                (this.snapshotCallback = null))
+                    },
+                    snapshot: function(t, e, i) {
+                        ;(this.snapshotCallback = t),
+                            (this.snapshotType = e),
+                            (this.snapshotEncoder = i)
+                    },
+                    batchSprite: function(t, e, i, n) {
+                        var s = i.alpha * t.alpha
+                        if (0 !== s) {
+                            var r = this.currentContext,
+                                o = this._tempMatrix1,
+                                a = this._tempMatrix2,
+                                h = this._tempMatrix3,
+                                l = e.canvasData,
+                                u = l.x,
+                                c = l.y,
+                                d = e.width,
+                                f = e.height,
+                                p = e.source.resolution,
+                                g = -t.displayOriginX + e.x,
+                                v = -t.displayOriginY + e.y,
+                                y = t.flipX ? -1 : 1,
+                                m = t.flipY ? -1 : 1
+                            if (t.isCropped) {
+                                var x = t._crop
+                                ;(x.flipX === t.flipX && x.flipY === t.flipY) ||
+                                    e.updateCropUVs(x, t.flipX, t.flipY),
+                                    (d = x.cw),
+                                    (f = x.ch),
+                                    (u = x.cx),
+                                    (c = x.cy),
+                                    (g = -t.displayOriginX + x.x),
+                                    (v = -t.displayOriginY + x.y),
+                                    -1 === y &&
+                                        (g >= 0 ? (g = -(g + d)) : g < 0 && (g = Math.abs(g) - d)),
+                                    -1 === m &&
+                                        (v >= 0 ? (v = -(v + f)) : v < 0 && (v = Math.abs(v) - f))
+                            }
+                            a.applyITRS(t.x, t.y, t.rotation, t.scaleX, t.scaleY),
+                                o.copyFrom(i.matrix),
+                                n
+                                    ? (o.multiplyWithOffset(
+                                          n,
+                                          -i.scrollX * t.scrollFactorX,
+                                          -i.scrollY * t.scrollFactorY
+                                      ),
+                                      (a.e = t.x),
+                                      (a.f = t.y),
+                                      o.multiply(a, h))
+                                    : ((a.e -= i.scrollX * t.scrollFactorX),
+                                      (a.f -= i.scrollY * t.scrollFactorY),
+                                      o.multiply(a, h)),
+                                r.save(),
+                                h.setToContext(r),
+                                r.scale(y, m),
+                                (r.globalCompositeOperation = this.blendModes[t.blendMode]),
+                                (r.globalAlpha = s),
+                                r.drawImage(e.source.image, u, c, d, f, g, v, d / p, f / p),
+                                r.restore()
+                        }
+                    },
+                    destroy: function() {
+                        ;(this.gameCanvas = null), (this.gameContext = null), (this.game = null)
+                    }
+                })
+            t.exports = u
+        },
         function(t, e) {
             t.exports = function(t, e, i) {
                 void 0 === e && (e = 'image/png'), void 0 === i && (i = 0.92)
@@ -20053,7 +19222,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(61),
-                s = i(302)
+                s = i(300)
             t.exports = function() {
                 var t = [],
                     e = s.supportNewBlendModes,
@@ -20079,6 +19248,837 @@
                     t
                 )
             }
+        },
+        function(t, e, i) {
+            /**
+             * @author       Richard Davey <rich@photonstorm.com>
+             * @author       Felipe Alfonso <@bitnenfer>
+             * @copyright    2018 Photon Storm Ltd.
+             * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
+             */
+            var n = i(110),
+                s = i(0),
+                r = i(26),
+                o = i(114),
+                a = i(92),
+                h = i(54),
+                l = i(10),
+                u = i(305),
+                c = i(306),
+                d = i(170),
+                f = i(171),
+                p = new s({
+                    initialize: function(t) {
+                        var e = this,
+                            i = t.config,
+                            s = {
+                                alpha: i.transparent,
+                                depth: !1,
+                                antialias: i.antialias,
+                                premultipliedAlpha: i.premultipliedAlpha,
+                                stencil: !0,
+                                preserveDrawingBuffer: i.preserveDrawingBuffer,
+                                failIfMajorPerformanceCaveat: i.failIfMajorPerformanceCaveat,
+                                powerPreference: i.powerPreference
+                            }
+                        ;(this.config = {
+                            clearBeforeRender: i.clearBeforeRender,
+                            antialias: i.antialias,
+                            backgroundColor: i.backgroundColor,
+                            contextCreation: s,
+                            resolution: i.resolution,
+                            autoResize: i.autoResize,
+                            roundPixels: i.roundPixels,
+                            maxTextures: i.maxTextures,
+                            maxTextureSize: i.maxTextureSize,
+                            batchSize: i.batchSize
+                        }),
+                            (this.game = t),
+                            (this.type = r.WEBGL),
+                            (this.width = t.config.width),
+                            (this.height = t.config.height),
+                            (this.canvas = t.canvas),
+                            (this.lostContextCallbacks = []),
+                            (this.restoredContextCallbacks = []),
+                            (this.blendModes = []),
+                            (this.nativeTextures = []),
+                            (this.contextLost = !1),
+                            (this.pipelines = null),
+                            (this.snapshotState = { callback: null, type: null, encoder: null }),
+                            (this.currentActiveTextureUnit = 0),
+                            (this.currentTextures = new Array(16)),
+                            (this.currentFramebuffer = null),
+                            (this.currentPipeline = null),
+                            (this.currentProgram = null),
+                            (this.currentVertexBuffer = null),
+                            (this.currentIndexBuffer = null),
+                            (this.currentBlendMode = 1 / 0),
+                            (this.currentScissorEnabled = !1),
+                            (this.currentScissor = null),
+                            (this.scissorStack = []),
+                            this.canvas.addEventListener(
+                                'webglcontextlost',
+                                function(t) {
+                                    ;(e.contextLost = !0), t.preventDefault()
+                                    for (var i = 0; i < e.lostContextCallbacks.length; ++i) {
+                                        var n = e.lostContextCallbacks[i]
+                                        n[0].call(n[1], e)
+                                    }
+                                },
+                                !1
+                            ),
+                            this.canvas.addEventListener(
+                                'webglcontextrestored',
+                                function() {
+                                    ;(e.contextLost = !1), e.init(e.config)
+                                    for (var t = 0; t < e.restoredContextCallbacks.length; ++t) {
+                                        var i = e.restoredContextCallbacks[t]
+                                        i[0].call(i[1], e)
+                                    }
+                                },
+                                !1
+                            ),
+                            (this.gl = null),
+                            (this.supportedExtensions = null),
+                            (this.extensions = {}),
+                            (this.glFormats = []),
+                            (this.compression = { ETC1: !1, PVRTC: !1, S3TC: !1 }),
+                            (this.drawingBufferHeight = 0),
+                            (this.blankTexture = null),
+                            (this.defaultCamera = new n(0, 0, 0, 0)),
+                            (this._tempMatrix1 = new h()),
+                            (this._tempMatrix2 = new h()),
+                            (this._tempMatrix3 = new h()),
+                            (this._tempMatrix4 = new h()),
+                            this.init(this.config)
+                    },
+                    init: function(t) {
+                        var e,
+                            i = this.canvas,
+                            n = t.backgroundColor
+                        if (
+                            !(e = this.game.config.context
+                                ? this.game.config.context
+                                : i.getContext('webgl', t.contextCreation) ||
+                                  i.getContext('experimental-webgl', t.contextCreation)) ||
+                            e.isContextLost()
+                        )
+                            throw ((this.contextLost = !0), new Error('WebGL unsupported'))
+                        ;(this.gl = e), (this.game.context = e)
+                        for (var s = 0; s <= 16; s++)
+                            this.blendModes.push({
+                                func: [e.ONE, e.ONE_MINUS_SRC_ALPHA],
+                                equation: e.FUNC_ADD
+                            })
+                        ;(this.blendModes[1].func = [e.ONE, e.DST_ALPHA]),
+                            (this.blendModes[2].func = [e.DST_COLOR, e.ONE_MINUS_SRC_ALPHA]),
+                            (this.blendModes[3].func = [e.ONE, e.ONE_MINUS_SRC_COLOR]),
+                            (this.glFormats[0] = e.BYTE),
+                            (this.glFormats[1] = e.SHORT),
+                            (this.glFormats[2] = e.UNSIGNED_BYTE),
+                            (this.glFormats[3] = e.UNSIGNED_SHORT),
+                            (this.glFormats[4] = e.FLOAT)
+                        var o = e.getSupportedExtensions()
+                        t.maxTextures ||
+                            (t.maxTextures = e.getParameter(e.MAX_TEXTURE_IMAGE_UNITS)),
+                            t.maxTextureSize ||
+                                (t.maxTextureSize = e.getParameter(e.MAX_TEXTURE_SIZE))
+                        var a = 'WEBGL_compressed_texture_',
+                            h = 'WEBKIT_' + a
+                        ;(this.compression.ETC1 =
+                            e.getExtension(a + 'etc1') || e.getExtension(h + 'etc1')),
+                            (this.compression.PVRTC =
+                                e.getExtension(a + 'pvrtc') || e.getExtension(h + 'pvrtc')),
+                            (this.compression.S3TC =
+                                e.getExtension(a + 's3tc') || e.getExtension(h + 's3tc')),
+                            (this.supportedExtensions = o),
+                            e.disable(e.DEPTH_TEST),
+                            e.disable(e.CULL_FACE),
+                            e.enable(e.BLEND),
+                            e.clearColor(n.redGL, n.greenGL, n.blueGL, 1)
+                        for (var l = 0; l < this.currentTextures.length; ++l)
+                            this.currentTextures[l] = null
+                        return (
+                            (this.pipelines = {}),
+                            this.addPipeline(
+                                'TextureTintPipeline',
+                                new f({ game: this.game, renderer: this })
+                            ),
+                            this.addPipeline(
+                                'BitmapMaskPipeline',
+                                new c({ game: this.game, renderer: this })
+                            ),
+                            this.addPipeline('Light2D', new d({ game: this.game, renderer: this })),
+                            this.setBlendMode(r.BlendModes.NORMAL),
+                            this.resize(this.width, this.height),
+                            this.game.events.once('texturesready', this.boot, this),
+                            this
+                        )
+                    },
+                    boot: function() {
+                        for (var t in this.pipelines) this.pipelines[t].boot()
+                        var e = this.game.textures.getFrame('__DEFAULT')
+                        ;(this.pipelines.TextureTintPipeline.currentFrame = e),
+                            (this.blankTexture = e)
+                    },
+                    resize: function(t, e) {
+                        var i = this.gl,
+                            n = this.pipelines,
+                            s = this.config.resolution
+                        for (var r in ((this.width = Math.floor(t * s)),
+                        (this.height = Math.floor(e * s)),
+                        (this.canvas.width = this.width),
+                        (this.canvas.height = this.height),
+                        this.config.autoResize &&
+                            ((this.canvas.style.width = this.width / s + 'px'),
+                            (this.canvas.style.height = this.height / s + 'px')),
+                        i.viewport(0, 0, this.width, this.height),
+                        n))
+                            n[r].resize(t, e, s)
+                        return (
+                            (this.drawingBufferHeight = i.drawingBufferHeight),
+                            this.defaultCamera.setSize(t, e),
+                            this
+                        )
+                    },
+                    onContextRestored: function(t, e) {
+                        return this.restoredContextCallbacks.push([t, e]), this
+                    },
+                    onContextLost: function(t, e) {
+                        return this.lostContextCallbacks.push([t, e]), this
+                    },
+                    hasExtension: function(t) {
+                        return !!this.supportedExtensions && this.supportedExtensions.indexOf(t)
+                    },
+                    getExtension: function(t) {
+                        return this.hasExtension(t)
+                            ? (t in this.extensions ||
+                                  (this.extensions[t] = this.gl.getExtension(t)),
+                              this.extensions[t])
+                            : null
+                    },
+                    flush: function() {
+                        this.currentPipeline && this.currentPipeline.flush()
+                    },
+                    hasPipeline: function(t) {
+                        return t in this.pipelines
+                    },
+                    getPipeline: function(t) {
+                        return this.hasPipeline(t) ? this.pipelines[t] : null
+                    },
+                    removePipeline: function(t) {
+                        return delete this.pipelines[t], this
+                    },
+                    addPipeline: function(t, e) {
+                        return (
+                            this.hasPipeline(t)
+                                ? console.warn('Pipeline', t, ' already exists.')
+                                : (this.pipelines[t] = e),
+                            (e.name = t),
+                            this.pipelines[t].resize(
+                                this.width,
+                                this.height,
+                                this.config.resolution
+                            ),
+                            e
+                        )
+                    },
+                    pushScissor: function(t, e, i, n) {
+                        var s = [t, e, i, n]
+                        return (
+                            this.scissorStack.push(s),
+                            this.setScissor(t, e, i, n),
+                            (this.currentScissor = s),
+                            s
+                        )
+                    },
+                    setScissor: function(t, e, i, n) {
+                        var s = this.gl,
+                            r = this.currentScissor,
+                            o = r[0],
+                            a = r[1],
+                            h = r[2],
+                            l = r[3]
+                        ;(o === t && a === e && h === i && l === n) ||
+                            (this.flush(),
+                            i > 0 && n > 0 && s.scissor(t, this.drawingBufferHeight - e - n, i, n))
+                    },
+                    popScissor: function() {
+                        var t = this.scissorStack
+                        t.pop()
+                        var e = t[t.length - 1]
+                        e && this.setScissor(e[0], e[1], e[2], e[3]), (this.currentScissor = e)
+                    },
+                    setPipeline: function(t, e) {
+                        return (
+                            (this.currentPipeline === t &&
+                                this.currentPipeline.vertexBuffer === this.currentVertexBuffer &&
+                                this.currentPipeline.program === this.currentProgram) ||
+                                (this.flush(),
+                                (this.currentPipeline = t),
+                                this.currentPipeline.bind()),
+                            this.currentPipeline.onBind(e),
+                            this.currentPipeline
+                        )
+                    },
+                    setBlendMode: function(t) {
+                        var e = this.gl,
+                            i = this.blendModes[t]
+                        return (
+                            t !== r.BlendModes.SKIP_CHECK &&
+                            this.currentBlendMode !== t &&
+                            (this.flush(),
+                            e.enable(e.BLEND),
+                            e.blendEquation(i.equation),
+                            i.func.length > 2
+                                ? e.blendFuncSeparate(i.func[0], i.func[1], i.func[2], i.func[3])
+                                : e.blendFunc(i.func[0], i.func[1]),
+                            (this.currentBlendMode = t),
+                            !0)
+                        )
+                    },
+                    addBlendMode: function(t, e) {
+                        return this.blendModes.push({ func: t, equation: e }) - 1
+                    },
+                    updateBlendMode: function(t, e, i) {
+                        return (
+                            this.blendModes[t] &&
+                                ((this.blendModes[t].func = e),
+                                i && (this.blendModes[t].equation = i)),
+                            this
+                        )
+                    },
+                    removeBlendMode: function(t) {
+                        return t > 16 && this.blendModes[t] && this.blendModes.splice(t, 1), this
+                    },
+                    setBlankTexture: function(t) {
+                        void 0 === t && (t = !1),
+                            (!t &&
+                                0 === this.currentActiveTextureUnit &&
+                                this.currentTextures[0]) ||
+                                this.setTexture2D(this.blankTexture.glTexture, 0)
+                    },
+                    setTexture2D: function(t, e) {
+                        var i = this.gl
+                        return (
+                            t !== this.currentTextures[e] &&
+                                (this.flush(),
+                                this.currentActiveTextureUnit !== e &&
+                                    (i.activeTexture(i.TEXTURE0 + e),
+                                    (this.currentActiveTextureUnit = e)),
+                                i.bindTexture(i.TEXTURE_2D, t),
+                                (this.currentTextures[e] = t)),
+                            this
+                        )
+                    },
+                    setFramebuffer: function(t) {
+                        var e = this.gl,
+                            i = this.width,
+                            n = this.height
+                        return (
+                            t !== this.currentFramebuffer &&
+                                (t && t.renderTexture
+                                    ? ((i = t.renderTexture.width), (n = t.renderTexture.height))
+                                    : this.flush(),
+                                e.bindFramebuffer(e.FRAMEBUFFER, t),
+                                e.viewport(0, 0, i, n),
+                                (this.currentFramebuffer = t)),
+                            this
+                        )
+                    },
+                    setProgram: function(t) {
+                        var e = this.gl
+                        return (
+                            t !== this.currentProgram &&
+                                (this.flush(), e.useProgram(t), (this.currentProgram = t)),
+                            this
+                        )
+                    },
+                    setVertexBuffer: function(t) {
+                        var e = this.gl
+                        return (
+                            t !== this.currentVertexBuffer &&
+                                (this.flush(),
+                                e.bindBuffer(e.ARRAY_BUFFER, t),
+                                (this.currentVertexBuffer = t)),
+                            this
+                        )
+                    },
+                    setIndexBuffer: function(t) {
+                        var e = this.gl
+                        return (
+                            t !== this.currentIndexBuffer &&
+                                (this.flush(),
+                                e.bindBuffer(e.ELEMENT_ARRAY_BUFFER, t),
+                                (this.currentIndexBuffer = t)),
+                            this
+                        )
+                    },
+                    createTextureFromSource: function(t, e, i, n) {
+                        var s = this.gl,
+                            a = s.NEAREST,
+                            h = s.CLAMP_TO_EDGE
+                        return (
+                            (e = t ? t.width : e),
+                            (i = t ? t.height : i),
+                            o(e, i) && (h = s.REPEAT),
+                            n === r.ScaleModes.LINEAR && this.config.antialias && (a = s.LINEAR),
+                            t || 'number' != typeof e || 'number' != typeof i
+                                ? this.createTexture2D(0, a, a, h, h, s.RGBA, t)
+                                : this.createTexture2D(0, a, a, h, h, s.RGBA, null, e, i)
+                        )
+                    },
+                    createTexture2D: function(t, e, i, n, s, r, o, a, h, l) {
+                        l = void 0 === l || null === l || l
+                        var u = this.gl,
+                            c = u.createTexture()
+                        return (
+                            this.setTexture2D(c, 0),
+                            u.texParameteri(u.TEXTURE_2D, u.TEXTURE_MIN_FILTER, e),
+                            u.texParameteri(u.TEXTURE_2D, u.TEXTURE_MAG_FILTER, i),
+                            u.texParameteri(u.TEXTURE_2D, u.TEXTURE_WRAP_S, s),
+                            u.texParameteri(u.TEXTURE_2D, u.TEXTURE_WRAP_T, n),
+                            u.pixelStorei(u.UNPACK_PREMULTIPLY_ALPHA_WEBGL, l),
+                            null === o || void 0 === o
+                                ? u.texImage2D(
+                                      u.TEXTURE_2D,
+                                      t,
+                                      r,
+                                      a,
+                                      h,
+                                      0,
+                                      r,
+                                      u.UNSIGNED_BYTE,
+                                      null
+                                  )
+                                : (u.texImage2D(u.TEXTURE_2D, t, r, r, u.UNSIGNED_BYTE, o),
+                                  (a = o.width),
+                                  (h = o.height)),
+                            this.setTexture2D(null, 0),
+                            (c.isAlphaPremultiplied = l),
+                            (c.isRenderTexture = !1),
+                            (c.width = a),
+                            (c.height = h),
+                            this.nativeTextures.push(c),
+                            c
+                        )
+                    },
+                    createFramebuffer: function(t, e, i, n) {
+                        var s,
+                            r = this.gl,
+                            o = r.createFramebuffer()
+                        if ((this.setFramebuffer(o), n)) {
+                            var a = r.createRenderbuffer()
+                            r.bindRenderbuffer(r.RENDERBUFFER, a),
+                                r.renderbufferStorage(r.RENDERBUFFER, r.DEPTH_STENCIL, t, e),
+                                r.framebufferRenderbuffer(
+                                    r.FRAMEBUFFER,
+                                    r.DEPTH_STENCIL_ATTACHMENT,
+                                    r.RENDERBUFFER,
+                                    a
+                                )
+                        }
+                        if (
+                            ((i.isRenderTexture = !0),
+                            (i.isAlphaPremultiplied = !1),
+                            r.framebufferTexture2D(
+                                r.FRAMEBUFFER,
+                                r.COLOR_ATTACHMENT0,
+                                r.TEXTURE_2D,
+                                i,
+                                0
+                            ),
+                            (s = r.checkFramebufferStatus(r.FRAMEBUFFER)) !==
+                                r.FRAMEBUFFER_COMPLETE)
+                        ) {
+                            throw new Error(
+                                'Framebuffer incomplete. Framebuffer status: ' +
+                                    {
+                                        36054: 'Incomplete Attachment',
+                                        36055: 'Missing Attachment',
+                                        36057: 'Incomplete Dimensions',
+                                        36061: 'Framebuffer Unsupported'
+                                    }[s]
+                            )
+                        }
+                        return (o.renderTexture = i), this.setFramebuffer(null), o
+                    },
+                    createProgram: function(t, e) {
+                        var i = this.gl,
+                            n = i.createProgram(),
+                            s = i.createShader(i.VERTEX_SHADER),
+                            r = i.createShader(i.FRAGMENT_SHADER)
+                        if (
+                            (i.shaderSource(s, t),
+                            i.shaderSource(r, e),
+                            i.compileShader(s),
+                            i.compileShader(r),
+                            !i.getShaderParameter(s, i.COMPILE_STATUS))
+                        )
+                            throw new Error(
+                                'Failed to compile Vertex Shader:\n' + i.getShaderInfoLog(s)
+                            )
+                        if (!i.getShaderParameter(r, i.COMPILE_STATUS))
+                            throw new Error(
+                                'Failed to compile Fragment Shader:\n' + i.getShaderInfoLog(r)
+                            )
+                        if (
+                            (i.attachShader(n, s),
+                            i.attachShader(n, r),
+                            i.linkProgram(n),
+                            !i.getProgramParameter(n, i.LINK_STATUS))
+                        )
+                            throw new Error('Failed to link program:\n' + i.getProgramInfoLog(n))
+                        return n
+                    },
+                    createVertexBuffer: function(t, e) {
+                        var i = this.gl,
+                            n = i.createBuffer()
+                        return (
+                            this.setVertexBuffer(n),
+                            i.bufferData(i.ARRAY_BUFFER, t, e),
+                            this.setVertexBuffer(null),
+                            n
+                        )
+                    },
+                    createIndexBuffer: function(t, e) {
+                        var i = this.gl,
+                            n = i.createBuffer()
+                        return (
+                            this.setIndexBuffer(n),
+                            i.bufferData(i.ELEMENT_ARRAY_BUFFER, t, e),
+                            this.setIndexBuffer(null),
+                            n
+                        )
+                    },
+                    deleteTexture: function(t) {
+                        var e = this.nativeTextures.indexOf(t)
+                        return -1 !== e && a(this.nativeTextures, e), this.gl.deleteTexture(t), this
+                    },
+                    deleteFramebuffer: function(t) {
+                        return this.gl.deleteFramebuffer(t), this
+                    },
+                    deleteProgram: function(t) {
+                        return this.gl.deleteProgram(t), this
+                    },
+                    deleteBuffer: function(t) {
+                        return this.gl.deleteBuffer(t), this
+                    },
+                    preRenderCamera: function(t) {
+                        var e = t._cx,
+                            i = t._cy,
+                            n = t._cw,
+                            s = t._ch,
+                            r = this.pipelines.TextureTintPipeline,
+                            o = t.backgroundColor
+                        if (t.renderToTexture) {
+                            this.flush(),
+                                this.pushScissor(e, i, n, -s),
+                                this.setFramebuffer(t.framebuffer)
+                            var a = this.gl
+                            a.clearColor(0, 0, 0, 0),
+                                a.clear(a.COLOR_BUFFER_BIT),
+                                r.projOrtho(e, n + e, i, s + i, -1e3, 1e3),
+                                o.alphaGL > 0 &&
+                                    r.drawFillRect(
+                                        e,
+                                        i,
+                                        n + e,
+                                        s + i,
+                                        l.getTintFromFloats(o.redGL, o.greenGL, o.blueGL, 1),
+                                        o.alphaGL
+                                    ),
+                                t.emit('prerender', t)
+                        } else
+                            o.alphaGL > 0
+                                ? (this.pushScissor(e, i, n, s),
+                                  r.drawFillRect(
+                                      e,
+                                      i,
+                                      n,
+                                      s,
+                                      l.getTintFromFloats(o.redGL, o.greenGL, o.blueGL, 1),
+                                      o.alphaGL
+                                  ))
+                                : this.pushScissor(e, i, n, s)
+                    },
+                    postRenderCamera: function(t) {
+                        var e = this.pipelines.TextureTintPipeline
+                        if (
+                            (t.flashEffect.postRenderWebGL(e, l.getTintFromFloats),
+                            t.fadeEffect.postRenderWebGL(e, l.getTintFromFloats),
+                            (t.dirty = !1),
+                            this.popScissor(),
+                            t.renderToTexture)
+                        ) {
+                            e.flush(),
+                                this.setFramebuffer(null),
+                                t.emit('postrender', t),
+                                e.projOrtho(0, e.width, e.height, 0, -1e3, 1e3)
+                            var i = l.getTintAppendFloatAlpha
+                            ;(t.pipeline ? t.pipeline : e).batchTexture(
+                                t,
+                                t.glTexture,
+                                t.width,
+                                t.height,
+                                t.x,
+                                t.y,
+                                t.width,
+                                t.height,
+                                t.zoom,
+                                t.zoom,
+                                t.rotation,
+                                t.flipX,
+                                !t.flipY,
+                                1,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                t.width,
+                                t.height,
+                                i(t._tintTL, t._alphaTL),
+                                i(t._tintTR, t._alphaTR),
+                                i(t._tintBL, t._alphaBL),
+                                i(t._tintBR, t._alphaBR),
+                                t._isTinted && t.tintFill,
+                                0,
+                                0,
+                                this.defaultCamera,
+                                null
+                            ),
+                                this.setBlankTexture(!0)
+                        }
+                    },
+                    preRender: function() {
+                        if (!this.contextLost) {
+                            var t = this.gl,
+                                e = this.config.backgroundColor,
+                                i = this.pipelines
+                            for (var n in (this.config.clearBeforeRender &&
+                                (t.clearColor(e.redGL, e.greenGL, e.blueGL, e.alphaGL),
+                                t.clear(
+                                    t.COLOR_BUFFER_BIT | t.DEPTH_BUFFER_BIT | t.STENCIL_BUFFER_BIT
+                                )),
+                            t.enable(t.SCISSOR_TEST),
+                            i))
+                                i[n].onPreRender()
+                            ;(this.currentScissor = [0, 0, this.width, this.height]),
+                                (this.scissorStack = [this.currentScissor]),
+                                this.game.scene.customViewports &&
+                                    t.scissor(
+                                        0,
+                                        this.drawingBufferHeight - this.height,
+                                        this.width,
+                                        this.height
+                                    ),
+                                this.setPipeline(this.pipelines.TextureTintPipeline)
+                        }
+                    },
+                    render: function(t, e, i, n) {
+                        if (!this.contextLost) {
+                            var s = e.list,
+                                o = s.length,
+                                a = this.pipelines
+                            for (var h in a) a[h].onRender(t, n)
+                            this.preRenderCamera(n)
+                            for (var l = 0; l < o; l++) {
+                                var u = s[l]
+                                if (u.willRender(n)) {
+                                    u.blendMode !== this.currentBlendMode &&
+                                        this.setBlendMode(u.blendMode)
+                                    var c = u.mask
+                                    c
+                                        ? (c.preRenderWebGL(this, u, n),
+                                          u.renderWebGL(this, u, i, n),
+                                          c.postRenderWebGL(this, u))
+                                        : u.renderWebGL(this, u, i, n)
+                                }
+                            }
+                            this.setBlendMode(r.BlendModes.NORMAL), this.postRenderCamera(n)
+                        }
+                    },
+                    postRender: function() {
+                        if (!this.contextLost) {
+                            this.flush(),
+                                this.snapshotState.callback &&
+                                    (this.snapshotState.callback(
+                                        u(
+                                            this.canvas,
+                                            this.snapshotState.type,
+                                            this.snapshotState.encoder
+                                        )
+                                    ),
+                                    (this.snapshotState.callback = null))
+                            var t = this.pipelines
+                            for (var e in t) t[e].onPostRender()
+                        }
+                    },
+                    snapshot: function(t, e, i) {
+                        return (
+                            (this.snapshotState.callback = t),
+                            (this.snapshotState.type = e),
+                            (this.snapshotState.encoder = i),
+                            this
+                        )
+                    },
+                    canvasToTexture: function(t, e) {
+                        var i = this.gl
+                        e && this.deleteTexture(e)
+                        var n = i.CLAMP_TO_EDGE
+                        return (
+                            o(t.width, t.height) && (n = i.REPEAT),
+                            this.createTexture2D(
+                                0,
+                                i.NEAREST,
+                                i.NEAREST,
+                                n,
+                                n,
+                                i.RGBA,
+                                t,
+                                t.width,
+                                t.height,
+                                !0
+                            )
+                        )
+                    },
+                    setTextureFilter: function(t, e) {
+                        var i = this.gl,
+                            n = [i.LINEAR, i.NEAREST][e]
+                        return (
+                            this.setTexture2D(t, 0),
+                            i.texParameteri(i.TEXTURE_2D, i.TEXTURE_MIN_FILTER, n),
+                            i.texParameteri(i.TEXTURE_2D, i.TEXTURE_MAG_FILTER, n),
+                            this.setTexture2D(null, 0),
+                            this
+                        )
+                    },
+                    setFloat1: function(t, e, i) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform1f(this.gl.getUniformLocation(t, e), i),
+                            this
+                        )
+                    },
+                    setFloat2: function(t, e, i, n) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform2f(this.gl.getUniformLocation(t, e), i, n),
+                            this
+                        )
+                    },
+                    setFloat3: function(t, e, i, n, s) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform3f(this.gl.getUniformLocation(t, e), i, n, s),
+                            this
+                        )
+                    },
+                    setFloat4: function(t, e, i, n, s, r) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform4f(this.gl.getUniformLocation(t, e), i, n, s, r),
+                            this
+                        )
+                    },
+                    setFloat1v: function(t, e, i) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform1fv(this.gl.getUniformLocation(t, e), i),
+                            this
+                        )
+                    },
+                    setFloat2v: function(t, e, i) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform2fv(this.gl.getUniformLocation(t, e), i),
+                            this
+                        )
+                    },
+                    setFloat3v: function(t, e, i) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform3fv(this.gl.getUniformLocation(t, e), i),
+                            this
+                        )
+                    },
+                    setFloat4v: function(t, e, i) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform4fv(this.gl.getUniformLocation(t, e), i),
+                            this
+                        )
+                    },
+                    setInt1: function(t, e, i) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform1i(this.gl.getUniformLocation(t, e), i),
+                            this
+                        )
+                    },
+                    setInt2: function(t, e, i, n) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform2i(this.gl.getUniformLocation(t, e), i, n),
+                            this
+                        )
+                    },
+                    setInt3: function(t, e, i, n, s) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform3i(this.gl.getUniformLocation(t, e), i, n, s),
+                            this
+                        )
+                    },
+                    setInt4: function(t, e, i, n, s, r) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniform4i(this.gl.getUniformLocation(t, e), i, n, s, r),
+                            this
+                        )
+                    },
+                    setMatrix2: function(t, e, i, n) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniformMatrix2fv(this.gl.getUniformLocation(t, e), i, n),
+                            this
+                        )
+                    },
+                    setMatrix3: function(t, e, i, n) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniformMatrix3fv(this.gl.getUniformLocation(t, e), i, n),
+                            this
+                        )
+                    },
+                    setMatrix4: function(t, e, i, n) {
+                        return (
+                            this.setProgram(t),
+                            this.gl.uniformMatrix4fv(this.gl.getUniformLocation(t, e), i, n),
+                            this
+                        )
+                    },
+                    getMaxTextures: function() {
+                        return this.config.maxTextures
+                    },
+                    getMaxTextureSize: function() {
+                        return this.config.maxTextureSize
+                    },
+                    destroy: function() {
+                        for (var t in this.pipelines)
+                            this.pipelines[t].destroy(), delete this.pipelines[t]
+                        for (var e = 0; e < this.nativeTextures.length; ++e)
+                            this.deleteTexture(this.nativeTextures[e]),
+                                delete this.nativeTextures[e]
+                        delete this.gl,
+                            delete this.game,
+                            (this.contextLost = !0),
+                            (this.extensions = {}),
+                            (this.nativeTextures.length = 0)
+                    }
+                })
+            t.exports = p
         },
         function(t, e) {
             t.exports = function(t, e, i) {
@@ -20127,7 +20127,7 @@
             var n = i(0),
                 s = i(630),
                 r = i(631),
-                o = i(171),
+                o = i(169),
                 a = new n({
                     Extends: o,
                     initialize: function(t) {
@@ -21220,7 +21220,7 @@
                 r = i(4),
                 o = i(2),
                 a = i(317),
-                h = i(174),
+                h = i(172),
                 l = new n({
                     initialize: function(t, e) {
                         if (
@@ -21707,7 +21707,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(0),
-                s = i(174),
+                s = i(172),
                 r = new n({
                     initialize: function(t) {
                         ;(this.sys = new s(this, t)),
@@ -22748,10 +22748,10 @@
                 o = i(48),
                 a = i(26),
                 h = i(11),
-                l = i(285),
+                l = i(283),
                 u = i(4),
                 c = i(329),
-                d = i(175),
+                d = i(173),
                 f = new r({
                     Extends: h,
                     initialize: function(t) {
@@ -24037,7 +24037,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(185),
+            var n = i(183),
                 s = i(89),
                 r = i(18),
                 o = i(6)
@@ -24054,7 +24054,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(339),
-                s = i(185),
+                s = i(183),
                 r = i(89),
                 o = i(18)
             t.exports = function(t, e, i, a) {
@@ -24080,7 +24080,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(184),
+            var n = i(182),
                 s = i(24)
             t.exports = function(t, e, i, r, o, a, h) {
                 var l = e.commandBuffer,
@@ -24440,7 +24440,7 @@
                 a = i(345),
                 h = i(712),
                 l = i(1),
-                u = i(178),
+                u = i(176),
                 c = i(347),
                 d = i(82),
                 f = i(342),
@@ -25643,7 +25643,7 @@
                 s = i(0),
                 r = i(63),
                 o = i(360),
-                a = i(190),
+                a = i(188),
                 h = i(30),
                 l = i(363),
                 u = new s({
@@ -26298,7 +26298,7 @@
              */
             var n = i(0),
                 s = i(371),
-                r = i(172),
+                r = i(170),
                 o = i(10),
                 a = new n({
                     initialize: function() {
@@ -26421,7 +26421,7 @@
                 LineToRectangle: i(837),
                 PointToLine: i(376),
                 PointToLineSegment: i(838),
-                RectangleToRectangle: i(193),
+                RectangleToRectangle: i(191),
                 RectangleToTriangle: i(839),
                 RectangleToValues: i(840),
                 TriangleToCircle: i(841),
@@ -26534,14 +26534,14 @@
                 (n.Floor = i(890)),
                 (n.FloorAll = i(891)),
                 (n.FromPoints = i(162)),
-                (n.GetAspectRatio = i(196)),
+                (n.GetAspectRatio = i(194)),
                 (n.GetCenter = i(892)),
                 (n.GetPoint = i(143)),
-                (n.GetPoints = i(244)),
+                (n.GetPoints = i(242)),
                 (n.GetSize = i(893)),
                 (n.Inflate = i(894)),
                 (n.Intersection = i(895)),
-                (n.MarchingAnts = i(254)),
+                (n.MarchingAnts = i(252)),
                 (n.MergePoints = i(896)),
                 (n.MergeRect = i(897)),
                 (n.MergeXY = i(898)),
@@ -26975,7 +26975,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(201)
+            var n = i(199)
             t.exports = function(t, e) {
                 var i = n(e, t.xhrSettings),
                     s = new XMLHttpRequest()
@@ -27091,7 +27091,7 @@
             var n = i(0),
                 s = i(22),
                 r = i(1),
-                o = i(200),
+                o = i(198),
                 a = i(7),
                 h = new n({
                     Extends: s,
@@ -27915,7 +27915,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(85),
-                s = i(203),
+                s = i(201),
                 r = i(409),
                 o = new s(),
                 a = new r(),
@@ -30512,7 +30512,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(0),
-                s = i(204),
+                s = i(202),
                 r = new n({
                     Mixins: [
                         s.Acceleration,
@@ -30548,7 +30548,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(0),
-                s = i(204),
+                s = i(202),
                 r = i(81),
                 o = new n({
                     Extends: r,
@@ -30593,7 +30593,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(0),
-                s = i(204),
+                s = i(202),
                 r = i(49),
                 o = new n({
                     Extends: r,
@@ -30933,7 +30933,7 @@
                 a = i(1048),
                 h = i(435),
                 l = i(436),
-                u = i(206),
+                u = i(204),
                 c = i(1062),
                 d = new s({
                     initialize: function(t) {
@@ -31556,7 +31556,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(241),
+            var n = i(239),
                 s = i(0),
                 r = i(129),
                 o = i(12),
@@ -31600,7 +31600,7 @@
         function(t, e, i) {
             var n = {}
             t.exports = n
-            var s = i(210),
+            var s = i(208),
                 r = i(17)
             ;(n.name = 'matter-js'),
                 (n.version = '0.14.2'),
@@ -31620,7 +31620,7 @@
             var n = {}
             t.exports = n
             var s = i(130),
-                r = i(207),
+                r = i(205),
                 o = i(17)
             ;(n.create = function(t) {
                 var e = {
@@ -32043,7 +32043,7 @@
         function(t, e, i) {
             var n = {}
             t.exports = n
-            var s = i(211),
+            var s = i(209),
                 r = i(102),
                 o = i(440),
                 a = i(439),
@@ -32214,8 +32214,8 @@
                 u = i(4),
                 c = i(25),
                 d = i(86),
-                f = i(206),
-                p = i(211),
+                f = i(204),
+                p = i(209),
                 g = i(32),
                 v = new s({
                     Extends: h,
@@ -32558,7 +32558,7 @@
              */
             var n = i(72),
                 s = i(103),
-                r = i(212)
+                r = i(210)
             t.exports = function(t, e, i, o, a) {
                 if ((void 0 === i && (i = !1), void 0 === o && (o = !0), !s(t, e, a))) return null
                 var h = a.data[e][t]
@@ -32576,7 +32576,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(31),
-                s = i(215),
+                s = i(213),
                 r = i(448),
                 o = i(449),
                 a = i(454)
@@ -32608,7 +32608,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(31),
-                s = i(215)
+                s = i(213)
             t.exports = function(t, e, i, r, o) {
                 var a = e
                         .trim()
@@ -34070,15 +34070,15 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(219),
+            var n = i(217),
                 s = i(13),
                 r = i(97),
                 o = i(96),
                 a = i(136),
                 h = i(4),
-                l = i(218),
-                u = i(220),
-                c = i(221)
+                l = i(216),
+                u = i(218),
+                c = i(219)
             t.exports = function(t, e, i) {
                 void 0 === i && (i = n)
                 var d = h(e, 'from', 0),
@@ -34126,12 +34126,12 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(64),
-                s = i(219),
+                s = i(217),
                 r = i(13),
                 o = i(97),
                 a = i(96),
                 h = i(136),
-                l = i(217),
+                l = i(215),
                 u = i(460),
                 c = i(4),
                 d = i(463),
@@ -34438,7 +34438,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(222),
+            var n = i(220),
                 s = i(0),
                 r = new (i(85))(),
                 o = new s({
@@ -34507,7 +34507,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(222),
+            var n = i(220),
                 s = i(0),
                 r = new (i(85))(),
                 o = new s({
@@ -34829,7 +34829,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(225),
+            var n = i(223),
                 s = i(140),
                 r = i(1),
                 o = i(2),
@@ -34973,7 +34973,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(9),
-                s = i(246),
+                s = i(244),
                 r = i(3),
                 o = {
                     getCenter: function(t) {
@@ -35488,9 +35488,9 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(254),
-                s = i(255),
-                r = i(256)
+            var n = i(252),
+                s = i(253),
+                r = i(254)
             t.exports = function(t, e, i) {
                 void 0 === i && (i = 0)
                 var o = n(e, !1, t.length)
@@ -35505,7 +35505,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(257)
+            var n = i(255)
             t.exports = function(t, e, i) {
                 var s = n({ x1: e.x1, y1: e.y1, x2: e.x2, y2: e.y2 }, i),
                     r = n({ x1: e.x2, y1: e.y2, x2: e.x3, y2: e.y3 }, i),
@@ -35931,7 +35931,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            t.exports = { Animation: i(258), AnimationFrame: i(260), AnimationManager: i(261) }
+            t.exports = { Animation: i(256), AnimationFrame: i(258), AnimationManager: i(259) }
         },
         function(t, e, i) {
             /**
@@ -35939,7 +35939,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            t.exports = { BaseCache: i(262), CacheManager: i(263) }
+            t.exports = { BaseCache: i(260), CacheManager: i(261) }
         },
         function(t, e, i) {
             /**
@@ -36142,7 +36142,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            t.exports = { Camera: i(264), CameraManager: i(578), Effects: i(272) }
+            t.exports = { Camera: i(262), CameraManager: i(578), Effects: i(270) }
         },
         function(t, e, i) {
             /**
@@ -36874,7 +36874,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(264),
+            var n = i(262),
                 s = i(0),
                 r = i(1),
                 o = i(15),
@@ -37059,7 +37059,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            t.exports = { GenerateTexture: i(285), Palettes: i(580) }
+            t.exports = { GenerateTexture: i(283), Palettes: i(580) }
         },
         function(t, e, i) {
             /**
@@ -37067,7 +37067,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            t.exports = { ARNE16: i(286), C64: i(581), CGA: i(582), JMP: i(583), MSX: i(584) }
+            t.exports = { ARNE16: i(284), C64: i(581), CGA: i(582), JMP: i(583), MSX: i(584) }
         },
         function(t, e) {
             /**
@@ -37177,12 +37177,12 @@
              */
             t.exports = {
                 Path: i(586),
-                CubicBezier: i(287),
+                CubicBezier: i(285),
                 Curve: i(78),
-                Ellipse: i(289),
-                Line: i(290),
-                QuadraticBezier: i(291),
-                Spline: i(293)
+                Ellipse: i(287),
+                Line: i(288),
+                QuadraticBezier: i(289),
+                Spline: i(291)
             }
         },
         function(t, e, i) {
@@ -37192,14 +37192,14 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(0),
-                s = i(287),
-                r = i(289),
+                s = i(285),
+                r = i(287),
                 o = i(5),
-                a = i(290),
+                a = i(288),
                 h = i(587),
-                l = i(291),
+                l = i(289),
                 u = i(9),
-                c = i(293),
+                c = i(291),
                 d = i(3),
                 f = new n({
                     initialize: function(t, e) {
@@ -37502,7 +37502,7 @@
                 Align: i(591),
                 Bounds: i(606),
                 Canvas: i(609),
-                Color: i(295),
+                Color: i(293),
                 Masks: i(618)
             }
         },
@@ -37524,16 +37524,16 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             t.exports = {
-                BottomCenter: i(226),
-                BottomLeft: i(227),
-                BottomRight: i(228),
-                Center: i(229),
-                LeftCenter: i(231),
-                QuickSet: i(225),
-                RightCenter: i(232),
-                TopCenter: i(233),
-                TopLeft: i(234),
-                TopRight: i(235)
+                BottomCenter: i(224),
+                BottomLeft: i(225),
+                BottomRight: i(226),
+                Center: i(227),
+                LeftCenter: i(229),
+                QuickSet: i(223),
+                RightCenter: i(230),
+                TopCenter: i(231),
+                TopLeft: i(232),
+                TopRight: i(233)
             }
         },
         function(t, e, i) {
@@ -37804,7 +37804,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             t.exports = {
-                CenterOn: i(230),
+                CenterOn: i(228),
                 GetBottom: i(38),
                 GetCenterX: i(73),
                 GetCenterY: i(76),
@@ -37838,7 +37838,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             t.exports = {
-                CanvasInterpolation: i(294),
+                CanvasInterpolation: i(292),
                 CanvasPool: i(28),
                 Smoothing: i(159),
                 TouchAction: i(610),
@@ -37882,7 +37882,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(48),
-                s = i(297)
+                s = i(295)
             t.exports = function(t, e, i) {
                 var r = i,
                     o = i,
@@ -37960,7 +37960,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(296)
+            var n = i(294)
             t.exports = function(t, e, i, s, r) {
                 return (
                     void 0 === s && (s = 255),
@@ -37977,7 +37977,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            t.exports = { BitmapMask: i(248), GeometryMask: i(249) }
+            t.exports = { BitmapMask: i(246), GeometryMask: i(247) }
         },
         function(t, e, i) {
             /**
@@ -37987,10 +37987,10 @@
              */
             t.exports = {
                 AddToDOM: i(112),
-                DOMContentLoaded: i(298),
-                ParseXML: i(299),
+                DOMContentLoaded: i(296),
+                ParseXML: i(297),
                 RemoveFromDOM: i(166),
-                RequestAnimationFrame: i(300)
+                RequestAnimationFrame: i(298)
             }
         },
         function(t, e) {
@@ -38143,16 +38143,16 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(112),
-                s = i(261),
-                r = i(263),
+                s = i(259),
+                r = i(261),
                 o = i(28),
                 a = i(0),
                 h = i(624),
                 l = i(629),
                 u = i(90),
                 c = i(636),
-                d = i(301),
-                f = i(298),
+                d = i(299),
+                f = i(296),
                 p = i(11),
                 g = i(307),
                 v = i(15),
@@ -38300,7 +38300,7 @@
              */
             var n = i(0),
                 s = i(26),
-                r = i(301),
+                r = i(299),
                 o = i(1),
                 a = i(4),
                 h = i(7),
@@ -38598,7 +38598,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(294),
+            var n = i(292),
                 s = i(28),
                 r = i(26),
                 o = i(167)
@@ -38626,8 +38626,8 @@
                     (t.canvas.style.width = (h.width * h.zoom).toString() + 'px'),
                     (t.canvas.style.height = (h.height * h.zoom).toString() + 'px'),
                     h.renderType !== r.HEADLESS &&
-                        ((e = i(169)),
-                        (a = i(170)),
+                        ((e = i(301)),
+                        (a = i(304)),
                         h.renderType === r.WEBGL
                             ? ((t.renderer = new a(t)), (t.context = null))
                             : ((t.renderer = new e(t)), (t.context = t.renderer.gameContext)))
@@ -39416,7 +39416,7 @@
             var n = i(0),
                 s = i(48),
                 r = i(114),
-                o = i(175),
+                o = i(173),
                 a = new n({
                     Extends: o,
                     initialize: function(t, e, i, n, s) {
@@ -39778,7 +39778,7 @@
             var n = i(0),
                 s = i(4),
                 r = i(2),
-                o = i(300),
+                o = i(298),
                 a = new n({
                     initialize: function(t, e) {
                         ;(this.game = t),
@@ -40192,22 +40192,22 @@
                 UpdateList: i(687),
                 Components: i(14),
                 BuildGameObject: i(29),
-                BuildGameObjectAnimation: i(179),
+                BuildGameObjectAnimation: i(177),
                 GameObject: i(12),
                 BitmapText: i(122),
-                Blitter: i(180),
-                Container: i(181),
-                DynamicBitmapText: i(182),
-                Graphics: i(183),
+                Blitter: i(178),
+                Container: i(179),
+                DynamicBitmapText: i(180),
+                Graphics: i(181),
                 Group: i(95),
                 Image: i(81),
                 Particles: i(711),
                 PathFollower: i(349),
-                RenderTexture: i(187),
+                RenderTexture: i(185),
                 RetroFont: i(720),
                 Sprite: i(49),
-                Text: i(188),
-                TileSprite: i(189),
+                Text: i(186),
+                TileSprite: i(187),
                 Zone: i(106),
                 Shape: i(30),
                 Arc: i(352),
@@ -40267,7 +40267,7 @@
             ;(n.DOMElement = i(369)),
                 (n.Factories.DOMElement = i(805)),
                 (n.Mesh = i(124)),
-                (n.Quad = i(192)),
+                (n.Quad = i(190)),
                 (n.Factories.Mesh = i(809)),
                 (n.Factories.Quad = i(810)),
                 (n.Creators.Mesh = i(811)),
@@ -40347,7 +40347,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             t.exports = {
-                CheckMatrix: i(177),
+                CheckMatrix: i(175),
                 MatrixToString: i(661),
                 ReverseColumns: i(662),
                 ReverseRows: i(663),
@@ -40365,7 +40365,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(155),
-                s = i(177)
+                s = i(175)
             t.exports = function(t) {
                 var e = ''
                 if (!s(t)) return e
@@ -41767,7 +41767,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(184),
+            var n = i(182),
                 s = i(10),
                 r = function(t, e, i) {
                     ;(this.x = t), (this.y = e), (this.width = i)
@@ -42010,7 +42010,7 @@
                 GravityWell: i(341),
                 Particle: i(342),
                 ParticleEmitter: i(343),
-                ParticleEmitterManager: i(186),
+                ParticleEmitterManager: i(184),
                 Zones: i(716)
             }
         },
@@ -43926,7 +43926,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(180)
+            var n = i(178)
             i(5).register('blitter', function(t, e, i, s) {
                 return this.displayList.add(new n(this.scene, t, e, i, s))
             })
@@ -43938,7 +43938,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(181)
+            var n = i(179)
             i(5).register('container', function(t, e, i) {
                 return this.displayList.add(new n(this.scene, t, e, i))
             })
@@ -43949,7 +43949,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(182)
+            var n = i(180)
             i(5).register('dynamicBitmapText', function(t, e, i, s, r) {
                 return this.displayList.add(new n(this.scene, t, e, i, s, r))
             })
@@ -43960,7 +43960,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(183)
+            var n = i(181)
             i(5).register('graphics', function(t) {
                 return this.displayList.add(new n(this.scene, t))
             })
@@ -43994,7 +43994,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(5),
-                s = i(186)
+                s = i(184)
             n.register('particles', function(t, e, i) {
                 var n = new s(this.scene, t, e, i)
                 return this.displayList.add(n), this.updateList.add(n), n
@@ -44020,7 +44020,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(5),
-                s = i(187)
+                s = i(185)
             n.register('renderTexture', function(t, e, i, n) {
                 return this.displayList.add(new s(this.scene, t, e, i, n))
             })
@@ -44055,7 +44055,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(188)
+            var n = i(186)
             i(5).register('text', function(t, e, i, s) {
                 return this.displayList.add(new n(this.scene, t, e, i, s))
             })
@@ -44066,7 +44066,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(189)
+            var n = i(187)
             i(5).register('tileSprite', function(t, e, i, s, r, o) {
                 return this.displayList.add(new n(this.scene, t, e, i, s, r, o))
             })
@@ -44221,7 +44221,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(180),
+            var n = i(178),
                 s = i(29),
                 r = i(16),
                 o = i(13)
@@ -44241,7 +44241,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(29),
-                s = i(181),
+                s = i(179),
                 r = i(16),
                 o = i(13)
             r.register('container', function(t, e) {
@@ -44258,7 +44258,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(182),
+            var n = i(180),
                 s = i(29),
                 r = i(16),
                 o = i(13)
@@ -44278,7 +44278,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(16),
-                s = i(183)
+                s = i(181)
             n.register('graphics', function(t, e) {
                 void 0 === t && (t = {}), void 0 !== e && (t.add = e)
                 var i = new s(this.scene, t)
@@ -44324,7 +44324,7 @@
             var n = i(16),
                 s = i(13),
                 r = i(1),
-                o = i(186)
+                o = i(184)
             n.register('particles', function(t, e) {
                 void 0 === t && (t = {})
                 var i = s(t, 'key', null),
@@ -44348,7 +44348,7 @@
             var n = i(29),
                 s = i(16),
                 r = i(13),
-                o = i(187)
+                o = i(185)
             s.register('renderTexture', function(t, e) {
                 void 0 === t && (t = {})
                 var i = r(t, 'x', 0),
@@ -44366,7 +44366,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(29),
-                s = i(179),
+                s = i(177),
                 r = i(16),
                 o = i(13),
                 a = i(49)
@@ -44408,7 +44408,7 @@
             var n = i(29),
                 s = i(16),
                 r = i(13),
-                o = i(188)
+                o = i(186)
             s.register('text', function(t, e) {
                 void 0 === t && (t = {})
                 var i = r(t, 'text', ''),
@@ -44434,7 +44434,7 @@
             var n = i(29),
                 s = i(16),
                 r = i(13),
-                o = i(189)
+                o = i(187)
             s.register('tileSprite', function(t, e) {
                 void 0 === t && (t = {})
                 var i = r(t, 'x', 0),
@@ -44602,7 +44602,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(192)
+            var n = i(190)
             i(5).register('quad', function(t, e, i, s) {
                 return this.displayList.add(new n(this.scene, t, e, i, s))
             })
@@ -44639,7 +44639,7 @@
             var n = i(29),
                 s = i(16),
                 r = i(13),
-                o = i(192)
+                o = i(190)
             s.register('quad', function(t, e) {
                 void 0 === t && (t = {})
                 var i = r(t, 'x', 0),
@@ -44685,7 +44685,7 @@
              */
             var n = i(77)
             ;(n.Area = i(815)),
-                (n.Circumference = i(239)),
+                (n.Circumference = i(237)),
                 (n.CircumferencePoint = i(141)),
                 (n.Clone = i(816)),
                 (n.Contains = i(46)),
@@ -44694,8 +44694,8 @@
                 (n.CopyFrom = i(819)),
                 (n.Equals = i(820)),
                 (n.GetBounds = i(821)),
-                (n.GetPoint = i(236)),
-                (n.GetPoints = i(238)),
+                (n.GetPoint = i(234)),
+                (n.GetPoints = i(236)),
                 (n.Offset = i(822)),
                 (n.OffsetPoint = i(823)),
                 (n.Random = i(142)),
@@ -44791,7 +44791,7 @@
             var n = i(93)
             ;(n.Area = i(825)),
                 (n.Circumference = i(339)),
-                (n.CircumferencePoint = i(185)),
+                (n.CircumferencePoint = i(183)),
                 (n.Clone = i(826)),
                 (n.Contains = i(94)),
                 (n.ContainsPoint = i(827)),
@@ -44920,7 +44920,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(9),
-                s = i(193)
+                s = i(191)
             t.exports = function(t, e, i) {
                 return (
                     void 0 === i && (i = new n()),
@@ -44994,7 +44994,7 @@
              */
             var n = i(125),
                 s = i(47),
-                r = i(194),
+                r = i(192),
                 o = i(377)
             t.exports = function(t, e) {
                 if (e.left > t.right || e.right < t.left || e.top > t.bottom || e.bottom < t.top)
@@ -45069,7 +45069,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(194),
+            var n = i(192),
                 s = i(378),
                 r = i(125)
             t.exports = function(t, e) {
@@ -45097,14 +45097,14 @@
              */
             var n = i(53)
             ;(n.Angle = i(84)),
-                (n.BresenhamPoints = i(257)),
+                (n.BresenhamPoints = i(255)),
                 (n.CenterOn = i(845)),
                 (n.Clone = i(846)),
                 (n.CopyFrom = i(847)),
                 (n.Equals = i(848)),
                 (n.GetMidPoint = i(849)),
                 (n.GetNormal = i(850)),
-                (n.GetPoint = i(245)),
+                (n.GetPoint = i(243)),
                 (n.GetPoints = i(144)),
                 (n.Height = i(851)),
                 (n.Length = i(62)),
@@ -45117,7 +45117,7 @@
                 (n.ReflectAngle = i(856)),
                 (n.Rotate = i(857)),
                 (n.RotateAroundPoint = i(858)),
-                (n.RotateAroundXY = i(195)),
+                (n.RotateAroundXY = i(193)),
                 (n.SetToAngle = i(859)),
                 (n.Slope = i(860)),
                 (n.Width = i(861)),
@@ -45239,7 +45239,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(195)
+            var n = i(193)
             t.exports = function(t, e) {
                 var i = (t.x1 + t.x2) / 2,
                     s = (t.y1 + t.y2) / 2
@@ -45252,7 +45252,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(195)
+            var n = i(193)
             t.exports = function(t, e, i) {
                 return n(t, e.x, e.y, i)
             }
@@ -45461,9 +45461,9 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(190)
+            var n = i(188)
             ;(n.Clone = i(877)),
-                (n.Contains = i(191)),
+                (n.Contains = i(189)),
                 (n.ContainsPoint = i(878)),
                 (n.GetAABB = i(360)),
                 (n.GetNumberArray = i(879)),
@@ -45479,7 +45479,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(190)
+            var n = i(188)
             t.exports = function(t) {
                 return new n(t.points)
             }
@@ -45490,7 +45490,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(191)
+            var n = i(189)
             t.exports = function(t, e) {
                 return n(t, e.x, e.y)
             }
@@ -45567,7 +45567,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(196)
+            var n = i(194)
             t.exports = function(t, e) {
                 var i = n(t)
                 return (
@@ -45582,7 +45582,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(196)
+            var n = i(194)
             t.exports = function(t, e) {
                 var i = n(t)
                 return (
@@ -45649,7 +45649,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(9),
-                s = i(193)
+                s = i(191)
             t.exports = function(t, e, i) {
                 return (
                     void 0 === i && (i = new n()),
@@ -45783,7 +45783,7 @@
                 (n.CircumCircle = i(912)),
                 (n.Clone = i(913)),
                 (n.Contains = i(83)),
-                (n.ContainsArray = i(194)),
+                (n.ContainsArray = i(192)),
                 (n.ContainsPoint = i(914)),
                 (n.CopyFrom = i(915)),
                 (n.Decompose = i(378)),
@@ -45796,7 +45796,7 @@
                 (n.Random = i(150)),
                 (n.Rotate = i(918)),
                 (n.RotateAroundPoint = i(919)),
-                (n.RotateAroundXY = i(197)),
+                (n.RotateAroundXY = i(195)),
                 (t.exports = n)
         },
         function(t, e) {
@@ -46000,7 +46000,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(197),
+            var n = i(195),
                 s = i(386)
             t.exports = function(t, e) {
                 var i = s(t)
@@ -46013,7 +46013,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(197)
+            var n = i(195)
             t.exports = function(t, e, i) {
                 return n(t, e.x, e.y, i)
             }
@@ -47050,7 +47050,7 @@
             t.exports = {
                 KeyboardPlugin: i(930),
                 Key: i(391),
-                KeyCodes: i(198),
+                KeyCodes: i(196),
                 KeyCombo: i(392),
                 JustDown: i(937),
                 JustUp: i(938),
@@ -47069,12 +47069,12 @@
                 r = i(4),
                 o = i(126),
                 a = i(391),
-                h = i(198),
+                h = i(196),
                 l = i(392),
                 u = i(934),
                 c = i(935),
                 d = i(936),
-                f = i(199),
+                f = i(197),
                 p = new n({
                     Extends: s,
                     initialize: function(t) {
@@ -47267,7 +47267,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(198),
+            var n = i(196),
                 s = {}
             for (var r in n) s[n[r]] = r
             t.exports = s
@@ -47356,9 +47356,9 @@
                     FileTypes: i(944),
                     File: i(22),
                     FileTypesManager: i(8),
-                    GetURL: i(200),
+                    GetURL: i(198),
                     LoaderPlugin: i(965),
-                    MergeXHRSettings: i(201),
+                    MergeXHRSettings: i(199),
                     MultiFile: i(69),
                     XHRLoader: i(393),
                     XHRSettings: i(127)
@@ -47397,7 +47397,7 @@
                 TilemapImpactFile: i(962),
                 TilemapJSONFile: i(963),
                 UnityAtlasFile: i(964),
-                XMLFile: i(202)
+                XMLFile: i(200)
             }
         },
         function(t, e, i) {
@@ -47501,7 +47501,7 @@
                 o = i(68),
                 a = i(7),
                 h = i(69),
-                l = i(202),
+                l = i(200),
                 u = new n({
                     Extends: h,
                     initialize: function(t, e, i, n, s, u) {
@@ -47687,7 +47687,7 @@
                 a = i(7),
                 h = i(69),
                 l = i(335),
-                u = i(202),
+                u = i(200),
                 c = new n({
                     Extends: h,
                     initialize: function(t, e, i, n, s, l) {
@@ -48831,7 +48831,7 @@
                     Interpolation: i(981),
                     Pow2: i(986),
                     Snap: i(988),
-                    RandomDataGenerator: i(237),
+                    RandomDataGenerator: i(235),
                     Average: i(990),
                     Bernstein: i(402),
                     Between: i(165),
@@ -48856,7 +48856,7 @@
                     RandomXYZ: i(405),
                     RandomXYZW: i(406),
                     Rotate: i(407),
-                    RotateAround: i(246),
+                    RotateAround: i(244),
                     RotateAroundDistance: i(151),
                     RoundAwayFromZero: i(332),
                     RoundTo: i(1001),
@@ -48870,7 +48870,7 @@
                     Vector3: i(85),
                     Vector4: i(123),
                     Matrix3: i(408),
-                    Matrix4: i(203),
+                    Matrix4: i(201),
                     Quaternion: i(409),
                     RotateVec3: i(410)
                 }
@@ -48972,18 +48972,18 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             t.exports = {
-                Back: i(273),
-                Bounce: i(274),
-                Circular: i(275),
-                Cubic: i(276),
-                Elastic: i(277),
-                Expo: i(278),
-                Linear: i(279),
-                Quadratic: i(280),
-                Quartic: i(281),
-                Quintic: i(282),
-                Sine: i(283),
-                Stepped: i(284)
+                Back: i(271),
+                Bounce: i(272),
+                Circular: i(273),
+                Cubic: i(274),
+                Elastic: i(275),
+                Expo: i(276),
+                Linear: i(277),
+                Quadratic: i(278),
+                Quartic: i(279),
+                Quintic: i(280),
+                Sine: i(281),
+                Stepped: i(282)
             }
         },
         function(t, e, i) {
@@ -49019,9 +49019,9 @@
             t.exports = {
                 Bezier: i(982),
                 CatmullRom: i(983),
-                CubicBezier: i(288),
+                CubicBezier: i(286),
                 Linear: i(984),
-                QuadraticBezier: i(292),
+                QuadraticBezier: i(290),
                 SmoothStep: i(311),
                 SmootherStep: i(985)
             }
@@ -49114,7 +49114,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            t.exports = { Ceil: i(404), Floor: i(199), To: i(989) }
+            t.exports = { Ceil: i(404), Floor: i(197), To: i(989) }
         },
         function(t, e) {
             t.exports = function(t, e, i, n) {
@@ -50390,11 +50390,11 @@
             t.exports = {
                 Factory: i(432),
                 Image: i(435),
-                Matter: i(209),
+                Matter: i(207),
                 MatterPhysics: i(1066),
                 PolyDecomp: i(433),
                 Sprite: i(436),
-                TileBody: i(206),
+                TileBody: i(204),
                 World: i(442)
             }
         },
@@ -50980,7 +50980,7 @@
                 s = i(0),
                 r = i(70),
                 o = i(87),
-                a = i(207),
+                a = i(205),
                 h = i(1),
                 l = i(79),
                 u = i(102),
@@ -51080,7 +51080,7 @@
             var n = {}
             t.exports = n
             var s = i(32),
-                r = i(208),
+                r = i(206),
                 o = i(33),
                 a = i(58),
                 h = i(37)
@@ -51382,7 +51382,7 @@
                 h = i(437),
                 l = i(1068),
                 u = i(79),
-                c = i(210),
+                c = i(208),
                 d = i(15),
                 f = i(442),
                 p = new n({
@@ -51466,7 +51466,7 @@
             d.register('MatterPhysics', p, 'matterPhysics'), (t.exports = p)
         },
         function(t, e, i) {
-            var n = i(209),
+            var n = i(207),
                 s = {
                     name: 'matter-attractors',
                     version: '0.1.7',
@@ -51521,7 +51521,7 @@
             t.exports = s
         },
         function(t, e, i) {
-            var n = i(209),
+            var n = i(207),
                 s = {
                     name: 'matter-wrap',
                     version: '0.1.4',
@@ -51644,7 +51644,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            t.exports = { CanvasRenderer: i(169), GetBlendModes: i(304), SetTransform: i(24) }
+            t.exports = { CanvasRenderer: i(301), GetBlendModes: i(303), SetTransform: i(24) }
         },
         function(t, e, i) {
             /**
@@ -51652,7 +51652,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            t.exports = { Canvas: i(303), WebGL: i(305) }
+            t.exports = { Canvas: i(302), WebGL: i(305) }
         },
         function(t, e, i) {
             /**
@@ -51662,8 +51662,8 @@
              */
             t.exports = {
                 Utils: i(10),
-                WebGLPipeline: i(171),
-                WebGLRenderer: i(170),
+                WebGLPipeline: i(169),
+                WebGLRenderer: i(304),
                 Pipelines: i(1075),
                 BYTE: 0,
                 SHORT: 1,
@@ -51680,8 +51680,8 @@
              */
             t.exports = {
                 BitmapMaskPipeline: i(306),
-                ForwardDiffuseLightPipeline: i(172),
-                TextureTintPipeline: i(173)
+                ForwardDiffuseLightPipeline: i(170),
+                TextureTintPipeline: i(171)
             }
         },
         function(t, e, i) {
@@ -51696,7 +51696,7 @@
                     SceneManager: i(316),
                     ScenePlugin: i(1077),
                     Settings: i(319),
-                    Systems: i(174)
+                    Systems: i(172)
                 }
             ;(r = s(!1, r, n)), (t.exports = r)
         },
@@ -51980,7 +51980,7 @@
                     FilterMode: s,
                     Frame: i(118),
                     Parsers: i(329),
-                    Texture: i(175),
+                    Texture: i(173),
                     TextureManager: i(327),
                     TextureSource: i(328)
                 }
@@ -52000,7 +52000,7 @@
                 Parsers: i(1112),
                 Formats: i(31),
                 ImageCollection: i(451),
-                ParseToTilemap: i(216),
+                ParseToTilemap: i(214),
                 Tile: i(72),
                 Tilemap: i(455),
                 TilemapCreator: i(1129),
@@ -52078,7 +52078,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(199),
+            var n = i(197),
                 s = i(404)
             t.exports = function(t, e, i, r) {
                 void 0 === i && (i = []), void 0 === r && (r = 0), (i.length = 0)
@@ -52315,7 +52315,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            var n = i(213),
+            var n = i(211),
                 s = i(59),
                 r = i(60)
             t.exports = function(t, e, i, o, a, h) {
@@ -52331,7 +52331,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(52),
-                s = i(213)
+                s = i(211)
             t.exports = function(t, e, i, r, o) {
                 if (!Array.isArray(t)) return null
                 void 0 === r && (r = !0), Array.isArray(t[0]) || (t = [t])
@@ -52350,7 +52350,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(21),
-                s = i(178)
+                s = i(176)
             t.exports = function(t, e, i, r, o, a) {
                 var h,
                     l = n(t, e, i, r, null, a)
@@ -52382,7 +52382,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(21),
-                s = i(295)
+                s = i(293)
             t.exports = function(t, e, i) {
                 void 0 === e && (e = {})
                 for (
@@ -52425,7 +52425,7 @@
              */
             var n = i(71),
                 s = i(52),
-                r = i(214)
+                r = i(212)
             t.exports = function(t, e, i, o) {
                 void 0 === e && (e = !0), void 0 === i && (i = !0), Array.isArray(t) || (t = [t])
                 for (var a = 0; a < t.length; a++) r(t[a], e, o)
@@ -52445,7 +52445,7 @@
              */
             var n = i(71),
                 s = i(52),
-                r = i(214)
+                r = i(212)
             t.exports = function(t, e, i, o, a) {
                 if ((void 0 === i && (i = !0), void 0 === o && (o = !0), !(t > e))) {
                     for (var h = t; h <= e; h++) r(h, i, a)
@@ -52466,7 +52466,7 @@
              */
             var n = i(71),
                 s = i(52),
-                r = i(214)
+                r = i(212)
             t.exports = function(t, e, i, o) {
                 void 0 === e && (e = !0), void 0 === i && (i = !0), Array.isArray(t) || (t = [t])
                 for (var a = 0; a < o.height; a++)
@@ -52643,7 +52643,7 @@
              */
             t.exports = {
                 Parse: i(447),
-                Parse2DArray: i(215),
+                Parse2DArray: i(213),
                 ParseCSV: i(448),
                 Impact: i(454),
                 Tiled: i(449)
@@ -53192,7 +53192,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(16),
-                s = i(216)
+                s = i(214)
             n.register('tilemap', function(t) {
                 var e = void 0 !== t ? t : {}
                 return s(
@@ -53214,7 +53214,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(5),
-                s = i(216)
+                s = i(214)
             n.register('tilemap', function(t, e, i, n, r, o, a) {
                 return (
                     null === t && (t = void 0),
@@ -53354,8 +53354,8 @@
                 r = {
                     Builders: i(1134),
                     TweenManager: i(1136),
-                    Tween: i(220),
-                    TweenData: i(221),
+                    Tween: i(218),
+                    TweenData: i(219),
                     Timeline: i(463)
                 }
             ;(r = s(!1, r, n)), (t.exports = r)
@@ -53371,9 +53371,9 @@
                 GetEaseFunction: i(96),
                 GetNewValue: i(136),
                 GetProps: i(459),
-                GetTargets: i(217),
+                GetTargets: i(215),
                 GetTweens: i(460),
-                GetValueOp: i(218),
+                GetValueOp: i(216),
                 NumberTweenBuilder: i(461),
                 TimelineBuilder: i(462),
                 TweenBuilder: i(137)
@@ -53598,7 +53598,7 @@
              * @copyright    2018 Photon Storm Ltd.
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
-            t.exports = { Array: i(176), Objects: i(1138), String: i(1142) }
+            t.exports = { Array: i(174), Objects: i(1138), String: i(1142) }
         },
         function(t, e, i) {
             /**
@@ -53690,7 +53690,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             t.exports = {
-                Camera: i(222),
+                Camera: i(220),
                 CameraManager: i(1146),
                 OrthographicCamera: i(464),
                 PerspectiveCamera: i(465)
@@ -53791,7 +53791,7 @@
              * @license      {@link https://github.com/photonstorm/phaser/blob/master/license.txt|MIT License}
              */
             var n = i(29),
-                s = i(179),
+                s = i(177),
                 r = i(16),
                 o = i(13),
                 a = i(138)
