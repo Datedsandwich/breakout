@@ -10,13 +10,12 @@ const CopyWebpackPlugin = require('copy-webpack-plugin')
 module.exports = {
     entry: ['./src/index.js'],
     output: {
-        path: path.resolve(__dirname, 'docs'),
-        filename: '[name].js',
-        publicPath: './'
+        path: path.resolve(__dirname, 'dist'),
+        filename: '[name].js'
     },
     devtool: 'source-map',
     devServer: {
-        contentBase: './docs/'
+        contentBase: './'
     },
     optimization: {
         splitChunks: {
