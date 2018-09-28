@@ -28,7 +28,7 @@ class Breakout extends Phaser.Scene {
     }
 
     update() {
-        if (this.ball.y > this.cameras.main.width) {
+        if (this.ball.y > this.cameras.main.height) {
             this.resetBall()
         }
     }
