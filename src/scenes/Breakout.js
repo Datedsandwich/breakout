@@ -25,6 +25,18 @@ class Breakout extends Phaser.Scene {
         this.physics.add.collider(this.ball, this.paddle, this.hitPaddle, null, this)
     }
 
+    update() {
+        if (this.ball.y > 600) {
+            this.resetBall()
+        }
+    }
+
+    resetBall() {
+        this.ball.setVelocity(0)
+        this.ball.setPosition(this.paddle.x, 500)
+        this.ball.setData('onPaddle', true)
+    }
+
     setUpObjects() {
         this.bricks = this.physics.add.staticGroup({
             key: keys.assets,
