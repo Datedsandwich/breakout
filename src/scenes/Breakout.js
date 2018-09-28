@@ -1,10 +1,12 @@
 import Phaser from 'phaser'
-import { assets, bounds, keys } from '../const'
+import assets from '../const/assets'
+import keys from '../const/keys'
+import scenes from '../const/scenes'
 
 class Breakout extends Phaser.Scene {
     constructor() {
         super({
-            key: 'breakout'
+            key: scenes.breakout
         })
 
         this.bricks
@@ -26,7 +28,7 @@ class Breakout extends Phaser.Scene {
     }
 
     update() {
-        if (this.ball.y > bounds.height) {
+        if (this.ball.y > this.cameras.main.width) {
             this.resetBall()
         }
     }
@@ -112,6 +114,10 @@ class Breakout extends Phaser.Scene {
             },
             this
         )
+
+        this.input.keyboard.on('keydown_ESC', event => {
+            this.scene.start(scenes.title)
+        })
     }
 }
 
