@@ -39,6 +39,17 @@ class Breakout extends Phaser.Scene {
         }
     }
 
+    hitPaddle(ball, paddle) {
+        const modifier = 5
+        if (ball.x < paddle.x) {
+            ball.setVelocityX(-modifier * (paddle.x - ball.x))
+        } else if (ball.x > paddle.x) {
+            ball.setVelocityX(modifier * (ball.x - paddle.x))
+        } else {
+            ball.setVelocityX(2 + Math.random() * modifier)
+        }
+    }
+
     resetBall() {
         this.ball.setVelocity(0)
         this.ball.setPosition(this.paddle.x, 500)
@@ -74,6 +85,11 @@ class Breakout extends Phaser.Scene {
     }
 
     setUpInputEvents() {
+        const initialVelocity = {
+            x: -75,
+            y: -300
+        }
+
         this.input.on(
             'pointermove',
             pointer => {
@@ -90,7 +106,7 @@ class Breakout extends Phaser.Scene {
             'pointerup',
             pointer => {
                 if (this.ball.getData('onPaddle')) {
-                    this.ball.setVelocity(-75, -300)
+                    this.ball.setVelocity(initialVelocity.x, initialVelocity.y)
                     this.ball.setData('onPaddle', false)
                 }
             },
