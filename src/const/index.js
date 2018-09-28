@@ -8,6 +8,11 @@ export const keys = {
     assets: 'assets'
 }
 
+export const bounds = {
+    height: 600,
+    width: 800
+}
+
 export default {
     assets,
     keys

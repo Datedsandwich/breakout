@@ -1,5 +1,5 @@
 import Phaser from 'phaser'
-import { assets, keys } from '../const'
+import { assets, bounds, keys } from '../const'
 
 class Breakout extends Phaser.Scene {
     constructor() {
@@ -26,8 +26,16 @@ class Breakout extends Phaser.Scene {
     }
 
     update() {
-        if (this.ball.y > 600) {
+        if (this.ball.y > bounds.height) {
             this.resetBall()
+        }
+    }
+
+    hitBrick(ball, brick) {
+        brick.disableBody(true, true)
+
+        if (this.bricks.countActive() === 0) {
+            this.resetLevel()
         }
     }
 
@@ -35,6 +43,14 @@ class Breakout extends Phaser.Scene {
         this.ball.setVelocity(0)
         this.ball.setPosition(this.paddle.x, 500)
         this.ball.setData('onPaddle', true)
+    }
+
+    resetLevel() {
+        this.resetBall()
+
+        this.bricks.children.entries.forEach(brick => {
+            brick.enableBody(false, 0, 0, true, true)
+        })
     }
 
     setUpObjects() {

@@ -1,9 +1,11 @@
 import Phaser from 'phaser'
 import Breakout from './scenes/Breakout'
 
+import { bounds } from './const'
+
 const config = {
-    width: 800,
-    height: 600,
+    width: bounds.width,
+    height: bounds.height,
     parent: 'content',
     physics: {
         default: 'arcade'
